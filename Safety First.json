@@ -1464,24 +1464,6 @@
       ]
     },
     {
-      "name": "tombol",
-      "type": "array",
-      "children": [
-        {
-          "type": "number",
-          "value": 0
-        },
-        {
-          "type": "number",
-          "value": 0
-        },
-        {
-          "type": "number",
-          "value": 0
-        }
-      ]
-    },
-    {
       "name": "dapur",
       "type": "number",
       "value": 0
@@ -5062,7 +5044,6 @@
           "colorG": 176,
           "colorR": 74,
           "creationTime": 0,
-          "folded": true,
           "name": "Level 1",
           "source": "",
           "type": "BuiltinCommonInstructions::Group",
@@ -5093,6 +5074,17 @@
                       },
                       "parameters": [
                         "pink_1",
+                        "",
+                        "",
+                        ""
+                      ]
+                    },
+                    {
+                      "type": {
+                        "value": "SourisSurObjet"
+                      },
+                      "parameters": [
+                        "gembok_buka",
                         "",
                         "",
                         ""
@@ -5317,6 +5309,16 @@
                         "ButtonFSM",
                         ""
                       ]
+                    },
+                    {
+                      "type": {
+                        "value": "ButtonStates::ButtonFSM::IsClicked"
+                      },
+                      "parameters": [
+                        "biru_2",
+                        "ButtonFSM",
+                        ""
+                      ]
                     }
                   ]
                 },
@@ -5368,6 +5370,16 @@
                       },
                       "parameters": [
                         "_3333333333333",
+                        "ButtonFSM",
+                        ""
+                      ]
+                    },
+                    {
+                      "type": {
+                        "value": "ButtonStates::ButtonFSM::IsClicked"
+                      },
+                      "parameters": [
+                        "kuning_3",
                         "ButtonFSM",
                         ""
                       ]
@@ -5929,23 +5941,15 @@
                 "3",
                 ""
               ]
-            }
-          ]
-        },
-        {
-          "type": "BuiltinCommonInstructions::Standard",
-          "conditions": [
+            },
             {
               "type": {
-                "value": "MouseButtonFromTextReleased"
+                "value": "Wait"
               },
               "parameters": [
-                "",
-                "\"Left\""
+                "3.5"
               ]
-            }
-          ],
-          "actions": [
+            },
             {
               "type": {
                 "value": "Scene"
@@ -5957,6 +5961,11 @@
               ]
             }
           ]
+        },
+        {
+          "type": "BuiltinCommonInstructions::Standard",
+          "conditions": [],
+          "actions": []
         }
       ],
       "layers": [
@@ -7970,8 +7979,9 @@
           "flippedY": true,
           "height": 0,
           "keepRatio": true,
-          "layer": "A",
+          "layer": "",
           "name": "petir_bawah",
+          "opacity": 0,
           "persistentUuid": "f0f1186b-f376-4175-a23a-94126ae08af0",
           "width": 0,
           "x": -4,
@@ -7986,8 +7996,9 @@
           "customSize": false,
           "height": 0,
           "keepRatio": true,
-          "layer": "A",
+          "layer": "",
           "name": "petir_atas",
+          "opacity": 0,
           "persistentUuid": "4c28d9c3-adcf-4a34-b24b-8bcdc6e6018b",
           "width": 0,
           "x": 367,
@@ -8018,29 +8029,14 @@
           "customSize": false,
           "height": 0,
           "keepRatio": true,
-          "layer": "B",
-          "name": "petir_atas",
-          "persistentUuid": "296eef8e-51f2-4937-a7bb-3f226caf5590",
+          "layer": "",
+          "name": "petir_atas2",
+          "opacity": 0,
+          "persistentUuid": "69b19a76-2189-4e33-98ab-88f9e37b51b9",
           "width": 0,
           "x": 732,
           "y": 531,
-          "zOrder": 18,
-          "numberProperties": [],
-          "stringProperties": [],
-          "initialVariables": []
-        },
-        {
-          "angle": 0,
-          "customSize": false,
-          "height": 0,
-          "keepRatio": true,
-          "layer": "C",
-          "name": "petir_atas",
-          "persistentUuid": "fba77470-5d51-4de5-b0f9-a486a4a9718d",
-          "width": 0,
-          "x": 1111,
-          "y": 531,
-          "zOrder": 18,
+          "zOrder": 20,
           "numberProperties": [],
           "stringProperties": [],
           "initialVariables": []
@@ -8052,13 +8048,31 @@
           "flippedY": true,
           "height": 0,
           "keepRatio": true,
-          "layer": "B",
-          "name": "petir_bawah",
-          "persistentUuid": "9795c679-3d89-4c68-99e9-7d0c4f776b27",
+          "layer": "",
+          "name": "petir_bawah2",
+          "opacity": 0,
+          "persistentUuid": "1ac7513c-92c5-4dbf-874d-ece8d52ca00d",
           "width": 0,
           "x": 384,
           "y": 649,
-          "zOrder": 16,
+          "zOrder": 21,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": false,
+          "height": 0,
+          "keepRatio": true,
+          "layer": "",
+          "name": "petir_atas3",
+          "opacity": 0,
+          "persistentUuid": "89edb13c-9b91-4ed2-b519-983592c718ca",
+          "width": 0,
+          "x": 1111,
+          "y": 531,
+          "zOrder": 22,
           "numberProperties": [],
           "stringProperties": [],
           "initialVariables": []
@@ -8070,13 +8084,14 @@
           "flippedY": true,
           "height": 0,
           "keepRatio": true,
-          "layer": "C",
-          "name": "petir_bawah",
-          "persistentUuid": "261ac0f7-be58-4665-8b5a-08e76330a60d",
+          "layer": "",
+          "name": "petir_bawah3",
+          "opacity": 0,
+          "persistentUuid": "3c9d04e2-2a45-4e05-8b82-8129cfce03db",
           "width": 0,
           "x": 764,
           "y": 649,
-          "zOrder": 16,
+          "zOrder": 23,
           "numberProperties": [],
           "stringProperties": [],
           "initialVariables": []
@@ -9243,6 +9258,266 @@
               ]
             }
           ]
+        },
+        {
+          "adaptCollisionMaskAutomatically": true,
+          "assetStoreId": "",
+          "name": "petir_atas2",
+          "type": "Sprite",
+          "updateIfNotVisible": false,
+          "variables": [],
+          "effects": [],
+          "behaviors": [
+            {
+              "name": "ShakeObject_PositionAngle",
+              "type": "ShakeObject::ShakeObject_PositionAngle"
+            }
+          ],
+          "animations": [
+            {
+              "name": "",
+              "useMultipleDirections": false,
+              "directions": [
+                {
+                  "looping": false,
+                  "timeBetweenFrames": 0.08,
+                  "sprites": [
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "𝖲𝖺𝗇𝖼𝗁𝗂 · 🉆 1.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 9,
+                            "y": 2
+                          },
+                          {
+                            "x": 101,
+                            "y": 2
+                          },
+                          {
+                            "x": 101,
+                            "y": 108
+                          },
+                          {
+                            "x": 9,
+                            "y": 108
+                          }
+                        ]
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "adaptCollisionMaskAutomatically": true,
+          "assetStoreId": "",
+          "name": "petir_atas3",
+          "type": "Sprite",
+          "updateIfNotVisible": false,
+          "variables": [],
+          "effects": [],
+          "behaviors": [
+            {
+              "name": "ShakeObject_PositionAngle",
+              "type": "ShakeObject::ShakeObject_PositionAngle"
+            }
+          ],
+          "animations": [
+            {
+              "name": "",
+              "useMultipleDirections": false,
+              "directions": [
+                {
+                  "looping": false,
+                  "timeBetweenFrames": 0.08,
+                  "sprites": [
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "𝖲𝖺𝗇𝖼𝗁𝗂 · 🉆 1.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 9,
+                            "y": 2
+                          },
+                          {
+                            "x": 101,
+                            "y": 2
+                          },
+                          {
+                            "x": 101,
+                            "y": 108
+                          },
+                          {
+                            "x": 9,
+                            "y": 108
+                          }
+                        ]
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "adaptCollisionMaskAutomatically": true,
+          "assetStoreId": "",
+          "name": "petir_bawah2",
+          "type": "Sprite",
+          "updateIfNotVisible": false,
+          "variables": [],
+          "effects": [],
+          "behaviors": [
+            {
+              "name": "ShakeObject_PositionAngle",
+              "type": "ShakeObject::ShakeObject_PositionAngle"
+            }
+          ],
+          "animations": [
+            {
+              "name": "",
+              "useMultipleDirections": false,
+              "directions": [
+                {
+                  "looping": false,
+                  "timeBetweenFrames": 0.08,
+                  "sprites": [
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "𝖲𝖺𝗇𝖼𝗁𝗂 · 🉆 1.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 9,
+                            "y": 2
+                          },
+                          {
+                            "x": 101,
+                            "y": 2
+                          },
+                          {
+                            "x": 101,
+                            "y": 108
+                          },
+                          {
+                            "x": 9,
+                            "y": 108
+                          }
+                        ]
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "adaptCollisionMaskAutomatically": true,
+          "assetStoreId": "",
+          "name": "petir_bawah3",
+          "type": "Sprite",
+          "updateIfNotVisible": false,
+          "variables": [],
+          "effects": [],
+          "behaviors": [
+            {
+              "name": "ShakeObject_PositionAngle",
+              "type": "ShakeObject::ShakeObject_PositionAngle"
+            }
+          ],
+          "animations": [
+            {
+              "name": "",
+              "useMultipleDirections": false,
+              "directions": [
+                {
+                  "looping": false,
+                  "timeBetweenFrames": 0.08,
+                  "sprites": [
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "𝖲𝖺𝗇𝖼𝗁𝗂 · 🉆 1.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 9,
+                            "y": 2
+                          },
+                          {
+                            "x": 101,
+                            "y": 2
+                          },
+                          {
+                            "x": 101,
+                            "y": 108
+                          },
+                          {
+                            "x": 9,
+                            "y": 108
+                          }
+                        ]
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
         }
       ],
       "objectsFolderStructure": {
@@ -9297,7 +9572,19 @@
             "objectName": "petir_atas"
           },
           {
+            "objectName": "petir_atas2"
+          },
+          {
+            "objectName": "petir_atas3"
+          },
+          {
             "objectName": "petir_bawah"
+          },
+          {
+            "objectName": "petir_bawah2"
+          },
+          {
+            "objectName": "petir_bawah3"
           }
         ]
       },
@@ -9346,25 +9633,29 @@
                   ]
                 }
               ]
-            },
-            {
-              "type": {
-                "value": "MouseButtonFromTextReleased"
-              },
-              "parameters": [
-                "",
-                "\"Left\""
-              ]
             }
           ],
           "actions": [
             {
               "type": {
-                "value": "ShowLayer"
+                "value": "OpacityCapability::OpacityBehavior::SetValue"
               },
               "parameters": [
-                "",
-                "\"A\""
+                "petir_atas",
+                "Opacity",
+                "=",
+                "255"
+              ]
+            },
+            {
+              "type": {
+                "value": "OpacityCapability::OpacityBehavior::SetValue"
+              },
+              "parameters": [
+                "petir_bawah",
+                "Opacity",
+                "=",
+                "255"
               ]
             },
             {
@@ -9537,25 +9828,29 @@
                   ]
                 }
               ]
-            },
-            {
-              "type": {
-                "value": "MouseButtonFromTextReleased"
-              },
-              "parameters": [
-                "",
-                "\"Left\""
-              ]
             }
           ],
           "actions": [
             {
               "type": {
-                "value": "ShowLayer"
+                "value": "OpacityCapability::OpacityBehavior::SetValue"
               },
               "parameters": [
-                "",
-                "\"B\""
+                "petir_atas2",
+                "Opacity",
+                "=",
+                "255"
+              ]
+            },
+            {
+              "type": {
+                "value": "OpacityCapability::OpacityBehavior::SetValue"
+              },
+              "parameters": [
+                "petir_bawah2",
+                "Opacity",
+                "=",
+                "255"
               ]
             },
             {
@@ -9583,16 +9878,6 @@
                 "value": "ActivateBehavior"
               },
               "parameters": [
-                "B",
-                "ButtonScaleTween",
-                ""
-              ]
-            },
-            {
-              "type": {
-                "value": "ActivateBehavior"
-              },
-              "parameters": [
                 "papan_B",
                 "ButtonScaleTween",
                 ""
@@ -9603,7 +9888,7 @@
                 "value": "ActivateBehavior"
               },
               "parameters": [
-                "C",
+                "B",
                 "ButtonScaleTween",
                 ""
               ]
@@ -9614,6 +9899,16 @@
               },
               "parameters": [
                 "papan_C",
+                "ButtonScaleTween",
+                ""
+              ]
+            },
+            {
+              "type": {
+                "value": "ActivateBehavior"
+              },
+              "parameters": [
+                "C",
                 "ButtonScaleTween",
                 ""
               ]
@@ -9728,25 +10023,29 @@
                   ]
                 }
               ]
-            },
-            {
-              "type": {
-                "value": "MouseButtonFromTextReleased"
-              },
-              "parameters": [
-                "",
-                "\"Left\""
-              ]
             }
           ],
           "actions": [
             {
               "type": {
-                "value": "ShowLayer"
+                "value": "OpacityCapability::OpacityBehavior::SetValue"
               },
               "parameters": [
-                "",
-                "\"C\""
+                "petir_atas3",
+                "Opacity",
+                "=",
+                "255"
+              ]
+            },
+            {
+              "type": {
+                "value": "OpacityCapability::OpacityBehavior::SetValue"
+              },
+              "parameters": [
+                "petir_bawah3",
+                "Opacity",
+                "=",
+                "255"
               ]
             },
             {
@@ -9890,6 +10189,7 @@
           ]
         },
         {
+          "disabled": true,
           "type": "BuiltinCommonInstructions::Standard",
           "conditions": [
             {
@@ -10082,153 +10382,6 @@
               "width": 0
             }
           ],
-          "effects": [
-            {
-              "effectType": "Scene3D::AmbientLight",
-              "name": "3D Ammbient Light",
-              "doubleParameters": {
-                "intensity": 0.25
-              },
-              "stringParameters": {
-                "color": "255;255;255"
-              },
-              "booleanParameters": {}
-            },
-            {
-              "effectType": "Scene3D::DirectionalLight",
-              "name": "3D Sun Light",
-              "doubleParameters": {
-                "distanceFromCamera": 1500,
-                "elevation": 40,
-                "frustumSize": 4000,
-                "intensity": 0.75,
-                "minimumShadowBias": 0,
-                "rotation": 300
-              },
-              "stringParameters": {
-                "color": "255;255;255",
-                "shadowQuality": "medium",
-                "top": "Z+"
-              },
-              "booleanParameters": {
-                "isCastingShadow": true
-              }
-            }
-          ]
-        },
-        {
-          "ambientLightColorB": 200,
-          "ambientLightColorG": 200,
-          "ambientLightColorR": 200,
-          "camera3DFarPlaneDistance": 10000,
-          "camera3DFieldOfView": 45,
-          "camera3DNearPlaneDistance": 3,
-          "cameraType": "",
-          "followBaseLayerCamera": false,
-          "isLightingLayer": false,
-          "isLocked": false,
-          "name": "A",
-          "renderingType": "",
-          "visibility": false,
-          "cameras": [],
-          "effects": [
-            {
-              "effectType": "Scene3D::AmbientLight",
-              "name": "3D Ammbient Light",
-              "doubleParameters": {
-                "intensity": 0.25
-              },
-              "stringParameters": {
-                "color": "255;255;255"
-              },
-              "booleanParameters": {}
-            },
-            {
-              "effectType": "Scene3D::DirectionalLight",
-              "name": "3D Sun Light",
-              "doubleParameters": {
-                "distanceFromCamera": 1500,
-                "elevation": 40,
-                "frustumSize": 4000,
-                "intensity": 0.75,
-                "minimumShadowBias": 0,
-                "rotation": 300
-              },
-              "stringParameters": {
-                "color": "255;255;255",
-                "shadowQuality": "medium",
-                "top": "Z+"
-              },
-              "booleanParameters": {
-                "isCastingShadow": true
-              }
-            }
-          ]
-        },
-        {
-          "ambientLightColorB": 200,
-          "ambientLightColorG": 200,
-          "ambientLightColorR": 200,
-          "camera3DFarPlaneDistance": 10000,
-          "camera3DFieldOfView": 45,
-          "camera3DNearPlaneDistance": 3,
-          "cameraType": "",
-          "followBaseLayerCamera": false,
-          "isLightingLayer": false,
-          "isLocked": false,
-          "name": "B",
-          "renderingType": "",
-          "visibility": false,
-          "cameras": [],
-          "effects": [
-            {
-              "effectType": "Scene3D::AmbientLight",
-              "name": "3D Ammbient Light",
-              "doubleParameters": {
-                "intensity": 0.25
-              },
-              "stringParameters": {
-                "color": "255;255;255"
-              },
-              "booleanParameters": {}
-            },
-            {
-              "effectType": "Scene3D::DirectionalLight",
-              "name": "3D Sun Light",
-              "doubleParameters": {
-                "distanceFromCamera": 1500,
-                "elevation": 40,
-                "frustumSize": 4000,
-                "intensity": 0.75,
-                "minimumShadowBias": 0,
-                "rotation": 300
-              },
-              "stringParameters": {
-                "color": "255;255;255",
-                "shadowQuality": "medium",
-                "top": "Z+"
-              },
-              "booleanParameters": {
-                "isCastingShadow": true
-              }
-            }
-          ]
-        },
-        {
-          "ambientLightColorB": 200,
-          "ambientLightColorG": 200,
-          "ambientLightColorR": 200,
-          "camera3DFarPlaneDistance": 10000,
-          "camera3DFieldOfView": 45,
-          "camera3DNearPlaneDistance": 3,
-          "cameraType": "",
-          "followBaseLayerCamera": false,
-          "isLightingLayer": false,
-          "isLocked": false,
-          "name": "C",
-          "renderingType": "",
-          "visibility": false,
-          "cameras": [],
           "effects": [
             {
               "effectType": "Scene3D::AmbientLight",
@@ -12310,16 +12463,6 @@
                 "ButtonFSM",
                 "yes"
               ]
-            },
-            {
-              "type": {
-                "value": "SetNumberVariable"
-              },
-              "parameters": [
-                "tombol[0]",
-                "=",
-                "1"
-              ]
             }
           ]
         },
@@ -14116,7 +14259,7 @@
                 "value": "Wait"
               },
               "parameters": [
-                "3"
+                "2.8"
               ]
             },
             {
@@ -14179,7 +14322,7 @@
                 "\"jalan\"",
                 "NewSprite.X()",
                 "NewSprite.Y()",
-                "\"easeOutQuad\"",
+                "\"linear\"",
                 "1.5",
                 ""
               ]
@@ -14213,7 +14356,7 @@
                 "value": "Wait"
               },
               "parameters": [
-                "6"
+                "3"
               ]
             },
             {
@@ -14323,7 +14466,7 @@
                 "value": "Wait"
               },
               "parameters": [
-                "3"
+                "3.4"
               ]
             },
             {
@@ -14579,16 +14722,6 @@
                 "back",
                 "ButtonFSM",
                 "yes"
-              ]
-            },
-            {
-              "type": {
-                "value": "SetNumberVariable"
-              },
-              "parameters": [
-                "tombol[1]",
-                "=",
-                "1"
               ]
             }
           ]
@@ -16339,16 +16472,6 @@
                 "close",
                 "ButtonFSM",
                 "yes"
-              ]
-            },
-            {
-              "type": {
-                "value": "SetNumberVariable"
-              },
-              "parameters": [
-                "tombol[2]",
-                "=",
-                "1"
               ]
             }
           ]
@@ -18376,10 +18499,25 @@
         "gridColor": 10401023,
         "gridAlpha": 0.8,
         "snap": false,
-        "zoomFactor": 0.4481978045410368,
+        "zoomFactor": 0.40575189059438366,
         "windowMask": false
       },
-      "objectsGroups": [],
+      "objectsGroups": [
+        {
+          "name": "elemen",
+          "objects": [
+            {
+              "name": "panci"
+            },
+            {
+              "name": "api"
+            },
+            {
+              "name": "apii"
+            }
+          ]
+        }
+      ],
       "variables": [],
       "instances": [
         {
@@ -18464,15 +18602,17 @@
         },
         {
           "angle": 0,
-          "customSize": false,
-          "height": 0,
+          "customSize": true,
+          "depth": 1,
+          "height": 67,
           "keepRatio": true,
           "layer": "",
           "name": "teks",
+          "opacity": 0,
           "persistentUuid": "f6b71cf7-b8ef-4512-bf07-4fdb119a061c",
-          "width": 0,
-          "x": 359,
-          "y": 646,
+          "width": 628,
+          "x": 341,
+          "y": 622,
           "zOrder": 7,
           "numberProperties": [],
           "stringProperties": [],
@@ -18524,6 +18664,22 @@
           "x": 852,
           "y": 236,
           "zOrder": 11,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": false,
+          "height": 0,
+          "keepRatio": true,
+          "layer": "Layer",
+          "name": "api",
+          "persistentUuid": "04bec63b-d3a1-470e-b857-d03b5481d9fb",
+          "width": 0,
+          "x": 662,
+          "y": 236,
+          "zOrder": 12,
           "numberProperties": [],
           "stringProperties": [],
           "initialVariables": []
@@ -18754,6 +18910,20 @@
               "Index": 2.0247e-320
             },
             {
+              "name": "Sway",
+              "type": "Sway::Sway",
+              "Scale": "Scale",
+              "TweenBehavior": "Tween",
+              "AngleLeft": -2,
+              "AngleRight": 2,
+              "AngleTimeMin": 0.7,
+              "AngleTimeMax": 0.7,
+              "YScaleMin": 0,
+              "YScaleMax": 0,
+              "YScaleTimeMin": 0,
+              "YScaleTimeMax": 0
+            },
+            {
               "name": "Tween",
               "type": "Tween::TweenBehavior"
             }
@@ -18829,6 +18999,20 @@
               "Index": 2.0247e-320
             },
             {
+              "name": "Sway",
+              "type": "Sway::Sway",
+              "Scale": "Scale",
+              "TweenBehavior": "Tween",
+              "AngleLeft": -2,
+              "AngleRight": 2,
+              "AngleTimeMin": 0.7,
+              "AngleTimeMax": 0.7,
+              "YScaleMin": 0,
+              "YScaleMax": 0,
+              "YScaleTimeMin": 0,
+              "YScaleTimeMax": 0
+            },
+            {
               "name": "Tween",
               "type": "Tween::TweenBehavior"
             }
@@ -18883,7 +19067,7 @@
               ]
             },
             {
-              "name": "",
+              "name": "1",
               "useMultipleDirections": false,
               "directions": [
                 {
@@ -18970,18 +19154,19 @@
           "effects": [],
           "behaviors": [
             {
-              "name": "Sway",
-              "type": "Sway::Sway",
-              "Scale": "Scale",
+              "name": "FlashOpacity",
+              "type": "Flash::FlashOpacity",
+              "Opacity": "Opacity",
               "TweenBehavior": "Tween",
-              "AngleLeft": -2,
-              "AngleRight": 2,
-              "AngleTimeMin": 1,
-              "AngleTimeMax": 2,
-              "YScaleMin": 0,
-              "YScaleMax": 0,
-              "YScaleTimeMin": 0,
-              "YScaleTimeMax": 0
+              "HalfPeriodTime": 0.3,
+              "IsFlashing": false,
+              "FlashDuration": 0,
+              "TargetOpacity": 0,
+              "StartingOpacity": 2.0247e-320
+            },
+            {
+              "name": "ShakeObject_PositionAngle",
+              "type": "ShakeObject::ShakeObject_PositionAngle"
             },
             {
               "name": "Tween",
@@ -19231,6 +19416,19 @@
                 "yes",
                 ""
               ]
+            },
+            {
+              "type": {
+                "value": "Flash::FlashOpacity::Flash"
+              },
+              "parameters": [
+                "teks",
+                "FlashOpacity",
+                "Tween",
+                "10000",
+                "255",
+                ""
+              ]
             }
           ]
         },
@@ -19239,44 +19437,26 @@
           "conditions": [
             {
               "type": {
-                "value": "BuiltinCommonInstructions::Or"
+                "value": "ButtonStates::ButtonFSM::IsClicked"
               },
-              "parameters": [],
-              "subInstructions": [
-                {
-                  "type": {
-                    "value": "ButtonStates::ButtonFSM::IsClicked"
-                  },
-                  "parameters": [
-                    "panci",
-                    "ButtonFSM",
-                    ""
-                  ]
-                },
-                {
-                  "type": {
-                    "value": "ButtonStates::ButtonFSM::IsClicked"
-                  },
-                  "parameters": [
-                    "api",
-                    "ButtonFSM",
-                    ""
-                  ]
-                },
-                {
-                  "type": {
-                    "value": "ButtonStates::ButtonFSM::IsClicked"
-                  },
-                  "parameters": [
-                    "apii",
-                    "ButtonFSM",
-                    ""
-                  ]
-                }
+              "parameters": [
+                "api",
+                "ButtonFSM",
+                ""
               ]
             }
           ],
           "actions": [
+            {
+              "type": {
+                "value": "ActivateBehavior"
+              },
+              "parameters": [
+                "teks",
+                "FlashOpacity",
+                ""
+              ]
+            },
             {
               "type": {
                 "value": "Tween::TweenBehavior::AddObjectOpacityTween2"
@@ -19416,17 +19596,6 @@
                 "\"Dapur\"",
                 ""
               ]
-            },
-            {
-              "type": {
-                "value": "AnimatableCapability::AnimatableBehavior::SetName"
-              },
-              "parameters": [
-                "apii",
-                "Animation",
-                "=",
-                "\"\""
-              ]
             }
           ]
         }
@@ -19491,6 +19660,55 @@
               }
             }
           ]
+        },
+        {
+          "ambientLightColorB": 200,
+          "ambientLightColorG": 200,
+          "ambientLightColorR": 200,
+          "camera3DFarPlaneDistance": 10000,
+          "camera3DFieldOfView": 45,
+          "camera3DNearPlaneDistance": 3,
+          "cameraType": "",
+          "followBaseLayerCamera": false,
+          "isLightingLayer": false,
+          "isLocked": false,
+          "name": "Layer",
+          "renderingType": "",
+          "visibility": false,
+          "cameras": [],
+          "effects": [
+            {
+              "effectType": "Scene3D::AmbientLight",
+              "name": "3D Ammbient Light",
+              "doubleParameters": {
+                "intensity": 0.25
+              },
+              "stringParameters": {
+                "color": "255;255;255"
+              },
+              "booleanParameters": {}
+            },
+            {
+              "effectType": "Scene3D::DirectionalLight",
+              "name": "3D Sun Light",
+              "doubleParameters": {
+                "distanceFromCamera": 1500,
+                "elevation": 40,
+                "frustumSize": 4000,
+                "intensity": 0.75,
+                "minimumShadowBias": 0,
+                "rotation": 300
+              },
+              "stringParameters": {
+                "color": "255;255;255",
+                "shadowQuality": "medium",
+                "top": "Z+"
+              },
+              "booleanParameters": {
+                "isCastingShadow": true
+              }
+            }
+          ]
         }
       ],
       "behaviorsSharedData": [
@@ -19505,6 +19723,10 @@
         {
           "name": "Effect",
           "type": "EffectCapability::EffectBehavior"
+        },
+        {
+          "name": "FlashOpacity",
+          "type": "Flash::FlashOpacity"
         },
         {
           "name": "Flippable",
@@ -19684,7 +19906,7 @@
               "name": "EllipseMovement",
               "type": "EllipseMovement::EllipseMovement",
               "RadiusX": 10,
-              "RadiusY": 10,
+              "RadiusY": 0,
               "LoopDuration": 6,
               "InitialTurningLeft": false,
               "InitialDirectionAngle": 0,
@@ -19705,8 +19927,8 @@
               "AngleRight": 5,
               "AngleTimeMin": 1,
               "AngleTimeMax": 3,
-              "YScaleMin": 1.2,
-              "YScaleMax": 1.5,
+              "YScaleMin": 1,
+              "YScaleMax": 1.2,
               "YScaleTimeMin": 1,
               "YScaleTimeMax": 3
             },
@@ -19805,23 +20027,15 @@
                 "3",
                 ""
               ]
-            }
-          ]
-        },
-        {
-          "type": "BuiltinCommonInstructions::Standard",
-          "conditions": [
+            },
             {
               "type": {
-                "value": "MouseButtonFromTextReleased"
+                "value": "Wait"
               },
               "parameters": [
-                "",
-                "\"Left\""
+                "3.5\n"
               ]
-            }
-          ],
-          "actions": [
+            },
             {
               "type": {
                 "value": "Scene"
@@ -21546,7 +21760,7 @@
         "gridColor": 10401023,
         "gridAlpha": 0.8,
         "snap": false,
-        "zoomFactor": 0.44819780454103647,
+        "zoomFactor": 0.281725993207957,
         "windowMask": false
       },
       "objectsGroups": [],
@@ -21654,15 +21868,15 @@
           "angle": 0,
           "customSize": true,
           "depth": 1,
-          "height": 97,
+          "height": 49,
           "keepRatio": true,
           "layer": "",
           "name": "teks_awal",
           "opacity": 0,
           "persistentUuid": "d606cfa4-9b42-46e1-8196-4592a14a5f95",
-          "width": 467,
-          "x": 27,
-          "y": 583,
+          "width": 611,
+          "x": 360,
+          "y": 649,
           "zOrder": 8,
           "numberProperties": [],
           "stringProperties": [],
@@ -21672,15 +21886,15 @@
           "angle": 0,
           "customSize": true,
           "depth": 1,
-          "height": 130,
+          "height": 52,
           "keepRatio": true,
           "layer": "",
           "name": "teks_akhir",
           "opacity": 0,
           "persistentUuid": "325c5ad9-350f-414e-ba5f-338978524c33",
-          "width": 503,
-          "x": 23,
-          "y": 554,
+          "width": 1140,
+          "x": 90,
+          "y": 649,
           "zOrder": 9,
           "numberProperties": [],
           "stringProperties": [],
@@ -22524,15 +22738,6 @@
           "effects": [],
           "behaviors": [
             {
-              "name": "AutoTyping",
-              "type": "AutoTyping::AutoTyping",
-              "Text": "Text",
-              "Interval": 0.05,
-              "CharacterJustAdded": false,
-              "FullText": "",
-              "TypedText": ""
-            },
-            {
               "name": "Tween",
               "type": "Tween::TweenBehavior"
             }
@@ -22686,7 +22891,7 @@
                 "=",
                 "636",
                 "=",
-                "410"
+                "425"
               ]
             },
             {
@@ -22741,7 +22946,7 @@
                 "",
                 "\"incoming\"",
                 "1",
-                "1.2",
+                "1.1",
                 ""
               ]
             }
@@ -22760,18 +22965,6 @@
                   "type": "BuiltinCommonInstructions::Standard",
                   "conditions": [],
                   "actions": [
-                    {
-                      "type": {
-                        "value": "Create"
-                      },
-                      "parameters": [
-                        "",
-                        "kucing",
-                        "636",
-                        "410",
-                        ""
-                      ]
-                    },
                     {
                       "type": {
                         "value": "ScalableCapability::ScalableBehavior::SetValue"
@@ -23189,6 +23382,55 @@
               }
             }
           ]
+        },
+        {
+          "ambientLightColorB": 200,
+          "ambientLightColorG": 200,
+          "ambientLightColorR": 200,
+          "camera3DFarPlaneDistance": 10000,
+          "camera3DFieldOfView": 45,
+          "camera3DNearPlaneDistance": 3,
+          "cameraType": "",
+          "followBaseLayerCamera": false,
+          "isLightingLayer": false,
+          "isLocked": false,
+          "name": "Layer",
+          "renderingType": "",
+          "visibility": false,
+          "cameras": [],
+          "effects": [
+            {
+              "effectType": "Scene3D::AmbientLight",
+              "name": "3D Ammbient Light",
+              "doubleParameters": {
+                "intensity": 0.25
+              },
+              "stringParameters": {
+                "color": "255;255;255"
+              },
+              "booleanParameters": {}
+            },
+            {
+              "effectType": "Scene3D::DirectionalLight",
+              "name": "3D Sun Light",
+              "doubleParameters": {
+                "distanceFromCamera": 1500,
+                "elevation": 40,
+                "frustumSize": 4000,
+                "intensity": 0.75,
+                "minimumShadowBias": 0,
+                "rotation": 300
+              },
+              "stringParameters": {
+                "color": "255;255;255",
+                "shadowQuality": "medium",
+                "top": "Z+"
+              },
+              "booleanParameters": {
+                "isCastingShadow": true
+              }
+            }
+          ]
         }
       ],
       "behaviorsSharedData": [
@@ -23290,17 +23532,15 @@
         },
         {
           "angle": 0,
-          "customSize": true,
-          "depth": 1,
-          "height": 82,
+          "customSize": false,
+          "height": 0,
           "keepRatio": true,
           "layer": "",
           "name": "teks",
-          "opacity": 0,
-          "persistentUuid": "af240cc1-7b29-48da-a0e6-0dee4c96915f",
-          "width": 352,
-          "x": 444,
-          "y": 313,
+          "persistentUuid": "d26892bf-e900-42ed-81e2-f3866d45b08e",
+          "width": 0,
+          "x": 488,
+          "y": 298,
           "zOrder": 2,
           "numberProperties": [],
           "stringProperties": [],
@@ -23398,12 +23638,12 @@
               "type": "Sway::Sway",
               "Scale": "Scale",
               "TweenBehavior": "Tween",
-              "AngleLeft": -10,
-              "AngleRight": 10,
+              "AngleLeft": -5,
+              "AngleRight": 5,
               "AngleTimeMin": 1,
               "AngleTimeMax": 3,
-              "YScaleMin": 1.5,
-              "YScaleMax": 1.8,
+              "YScaleMin": 1,
+              "YScaleMax": 1.2,
               "YScaleTimeMin": 1,
               "YScaleTimeMax": 3
             },
@@ -23502,23 +23742,15 @@
                 "3",
                 ""
               ]
-            }
-          ]
-        },
-        {
-          "type": "BuiltinCommonInstructions::Standard",
-          "conditions": [
+            },
             {
               "type": {
-                "value": "MouseButtonFromTextReleased"
+                "value": "Wait"
               },
               "parameters": [
-                "",
-                "\"Left\""
+                "3.5"
               ]
-            }
-          ],
-          "actions": [
+            },
             {
               "type": {
                 "value": "Scene"
