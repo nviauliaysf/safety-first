@@ -3854,6 +3854,31 @@
           "effects": [],
           "behaviors": [
             {
+              "name": "ButtonFSM",
+              "type": "ButtonStates::ButtonFSM",
+              "ShouldCheckHovering": true,
+              "State": "Idle",
+              "TouchId": 0,
+              "TouchIsInside": false,
+              "MouseIsInside": false,
+              "Index": 2.0247e-320
+            },
+            {
+              "name": "ButtonScaleTween",
+              "type": "ButtonStates::ButtonScaleTween",
+              "Scale": "Scale",
+              "ButtonFSM": "ButtonFSM",
+              "Tween": "Tween",
+              "IdleScale": 1,
+              "FocusedScale": 1.1,
+              "FadeInDuration": 0.1,
+              "FadeOutDuration": 0.2,
+              "PressedScale": 0.95,
+              "FadeInEasing": "easeInOutQuad",
+              "FadeOutEasing": "easeInOutQuad",
+              "PreviousState": "Idle"
+            },
+            {
               "name": "EllipseMovement",
               "type": "EllipseMovement::EllipseMovement",
               "RadiusX": 0,
@@ -3872,6 +3897,10 @@
             {
               "name": "ShakeObject_PositionAngle",
               "type": "ShakeObject::ShakeObject_PositionAngle"
+            },
+            {
+              "name": "Tween",
+              "type": "Tween::TweenBehavior"
             }
           ],
           "animations": [
@@ -3935,6 +3964,31 @@
           "effects": [],
           "behaviors": [
             {
+              "name": "ButtonFSM",
+              "type": "ButtonStates::ButtonFSM",
+              "ShouldCheckHovering": true,
+              "State": "Idle",
+              "TouchId": 0,
+              "TouchIsInside": false,
+              "MouseIsInside": false,
+              "Index": 2.0247e-320
+            },
+            {
+              "name": "ButtonScaleTween",
+              "type": "ButtonStates::ButtonScaleTween",
+              "Scale": "Scale",
+              "ButtonFSM": "ButtonFSM",
+              "Tween": "Tween",
+              "IdleScale": 1,
+              "FocusedScale": 1.1,
+              "FadeInDuration": 0.1,
+              "FadeOutDuration": 0.2,
+              "PressedScale": 0.95,
+              "FadeInEasing": "easeInOutQuad",
+              "FadeOutEasing": "easeInOutQuad",
+              "PreviousState": "Idle"
+            },
+            {
               "name": "EllipseMovement",
               "type": "EllipseMovement::EllipseMovement",
               "RadiusX": 0,
@@ -3953,6 +4007,10 @@
             {
               "name": "ShakeObject_PositionAngle",
               "type": "ShakeObject::ShakeObject_PositionAngle"
+            },
+            {
+              "name": "Tween",
+              "type": "Tween::TweenBehavior"
             }
           ],
           "animations": [
@@ -4016,6 +4074,31 @@
           "effects": [],
           "behaviors": [
             {
+              "name": "ButtonFSM",
+              "type": "ButtonStates::ButtonFSM",
+              "ShouldCheckHovering": true,
+              "State": "Idle",
+              "TouchId": 0,
+              "TouchIsInside": false,
+              "MouseIsInside": false,
+              "Index": 2.0247e-320
+            },
+            {
+              "name": "ButtonScaleTween",
+              "type": "ButtonStates::ButtonScaleTween",
+              "Scale": "Scale",
+              "ButtonFSM": "ButtonFSM",
+              "Tween": "Tween",
+              "IdleScale": 1,
+              "FocusedScale": 1.1,
+              "FadeInDuration": 0.1,
+              "FadeOutDuration": 0.2,
+              "PressedScale": 0.95,
+              "FadeInEasing": "easeInOutQuad",
+              "FadeOutEasing": "easeInOutQuad",
+              "PreviousState": "Idle"
+            },
+            {
               "name": "EllipseMovement",
               "type": "EllipseMovement::EllipseMovement",
               "RadiusX": 0,
@@ -4034,6 +4117,10 @@
             {
               "name": "ShakeObject_PositionAngle",
               "type": "ShakeObject::ShakeObject_PositionAngle"
+            },
+            {
+              "name": "Tween",
+              "type": "Tween::TweenBehavior"
             }
           ],
           "animations": [
@@ -31169,17 +31256,7 @@
           "underlined": false,
           "variables": [],
           "effects": [],
-          "behaviors": [
-            {
-              "name": "AutoTyping",
-              "type": "AutoTyping::AutoTyping",
-              "Text": "Text",
-              "Interval": 0.05,
-              "CharacterJustAdded": false,
-              "FullText": "",
-              "TypedText": ""
-            }
-          ],
+          "behaviors": [],
           "string": "Yeay! Kucing berhasil menyebrang dengan aman!",
           "font": "LondrinaSolid-Black.ttf",
           "textAlignment": "left",
@@ -31866,6 +31943,16 @@
                 "=",
                 "1"
               ]
+            },
+            {
+              "type": {
+                "value": "NumberVariable"
+              },
+              "parameters": [
+                "penuh[0]",
+                "=",
+                "1"
+              ]
             }
           ],
           "actions": [
@@ -31888,7 +31975,7 @@
                 "value": "Wait"
               },
               "parameters": [
-                "2"
+                "1"
               ]
             },
             {
@@ -31927,7 +32014,7 @@
                 "value": "Tween::TweenBehavior::AddObjectOpacityTween2"
               },
               "parameters": [
-                "back",
+                "hijau",
                 "Tween",
                 "\"muncul\"",
                 "255",
@@ -31941,7 +32028,7 @@
                 "value": "Tween::TweenBehavior::AddObjectOpacityTween2"
               },
               "parameters": [
-                "hijau",
+                "back",
                 "Tween",
                 "\"muncul\"",
                 "255",
@@ -32060,10 +32147,6 @@
         {
           "name": "Animation",
           "type": "AnimatableCapability::AnimatableBehavior"
-        },
-        {
-          "name": "AutoTyping",
-          "type": "AutoTyping::AutoTyping"
         },
         {
           "name": "ButtonFSM",
