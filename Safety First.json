@@ -92,26 +92,10 @@
   "resources": {
     "resources": [
       {
-        "file": "gembik.png",
-        "kind": "image",
-        "metadata": "",
-        "name": "gembik.png",
-        "smoothed": true,
-        "userAdded": false
-      },
-      {
         "file": "gembok.png",
         "kind": "image",
         "metadata": "",
         "name": "gembok.png",
-        "smoothed": true,
-        "userAdded": false
-      },
-      {
-        "file": "NewSprite9.png",
-        "kind": "image",
-        "metadata": "{\"extension\":\".png\"}",
-        "name": "NewSprite",
         "smoothed": true,
         "userAdded": false
       },
@@ -224,14 +208,6 @@
         "kind": "image",
         "metadata": "",
         "name": "Senza titolo 380_20250901010403 1.png",
-        "smoothed": true,
-        "userAdded": false
-      },
-      {
-        "file": "Senza titolo 380_20250901010335 4.png",
-        "kind": "image",
-        "metadata": "",
-        "name": "Senza titolo 380_20250901010335 4.png",
         "smoothed": true,
         "userAdded": false
       },
@@ -404,14 +380,6 @@
         "userAdded": false
       },
       {
-        "file": "download (43) 1.png",
-        "kind": "image",
-        "metadata": "",
-        "name": "download (43) 1.png",
-        "smoothed": true,
-        "userAdded": false
-      },
-      {
         "file": "alas.png",
         "kind": "image",
         "metadata": "",
@@ -452,22 +420,6 @@
         "userAdded": false
       },
       {
-        "file": "Senza titolo 369_20250819085440 1.png",
-        "kind": "image",
-        "metadata": "",
-        "name": "Senza titolo 369_20250819085440 1.png",
-        "smoothed": true,
-        "userAdded": false
-      },
-      {
-        "file": "Rectangle 1.png",
-        "kind": "image",
-        "metadata": "",
-        "name": "Rectangle 1.png",
-        "smoothed": true,
-        "userAdded": false
-      },
-      {
         "file": "𝖲𝖺𝗇𝖼𝗁𝗂 · 🉆 1.png",
         "kind": "image",
         "metadata": "",
@@ -492,26 +444,10 @@
         "userAdded": false
       },
       {
-        "file": "Senza titolo 384_20250901020620 1.png",
-        "kind": "image",
-        "metadata": "",
-        "name": "Senza titolo 384_20250901020620 1.png",
-        "smoothed": true,
-        "userAdded": false
-      },
-      {
         "file": "Senza titolo 380_20250901010433 1 (2).png",
         "kind": "image",
         "metadata": "",
         "name": "Senza titolo 380_20250901010433 1 (2).png",
-        "smoothed": true,
-        "userAdded": false
-      },
-      {
-        "file": "NewSprite10.png",
-        "kind": "image",
-        "metadata": "{\"extension\":\".png\"}",
-        "name": "NewSprite2",
         "smoothed": true,
         "userAdded": false
       },
@@ -572,14 +508,6 @@
         "userAdded": false
       },
       {
-        "file": "Ayah, tolong kesini yah!!.png",
-        "kind": "image",
-        "metadata": "",
-        "name": "Ayah, tolong kesini yah!!.png",
-        "smoothed": true,
-        "userAdded": false
-      },
-      {
         "file": "89eff6aa45145bac06677718ed505ca90556b03a.png",
         "kind": "image",
         "metadata": "",
@@ -596,42 +524,10 @@
         "userAdded": false
       },
       {
-        "file": "Ada apa anakku.png",
-        "kind": "image",
-        "metadata": "",
-        "name": "Ada apa anakku.png",
-        "smoothed": true,
-        "userAdded": false
-      },
-      {
-        "file": "Itu yah ada kabel listrik yang terkelupas.png",
-        "kind": "image",
-        "metadata": "",
-        "name": "Itu yah ada kabel listrik yang terkelupas.png",
-        "smoothed": true,
-        "userAdded": false
-      },
-      {
         "file": "Senza titolo 380_20250901012636 2.png",
         "kind": "image",
         "metadata": "",
         "name": "Senza titolo 380_20250901012636 2.png",
-        "smoothed": true,
-        "userAdded": false
-      },
-      {
-        "file": "Biar Ayah saja yang perbaiki. Kamu main di sana dulu, ya..png",
-        "kind": "image",
-        "metadata": "",
-        "name": "Biar Ayah saja yang perbaiki. Kamu main di sana dulu, ya..png",
-        "smoothed": true,
-        "userAdded": false
-      },
-      {
-        "file": "NewSprite11.png",
-        "kind": "image",
-        "metadata": "{\"extension\":\".png\"}",
-        "name": "NewSprite3",
         "smoothed": true,
         "userAdded": false
       },
@@ -759,30 +655,6 @@
         "kind": "image",
         "metadata": "",
         "name": "Senza titolo 389_20250901070911 1.png",
-        "smoothed": true,
-        "userAdded": false
-      },
-      {
-        "file": "Senza titolo 389_20250901070833 1.png",
-        "kind": "image",
-        "metadata": "",
-        "name": "Senza titolo 389_20250901070833 1.png",
-        "smoothed": true,
-        "userAdded": false
-      },
-      {
-        "file": "Senza titolo 389_20250901070833 1 (2).png",
-        "kind": "image",
-        "metadata": "",
-        "name": "Senza titolo 389_20250901070833 1 (2).png",
-        "smoothed": true,
-        "userAdded": false
-      },
-      {
-        "file": "Senza titolo 389_20250901070935 1.png",
-        "kind": "image",
-        "metadata": "",
-        "name": "Senza titolo 389_20250901070935 1.png",
         "smoothed": true,
         "userAdded": false
       },
@@ -1106,30 +978,6 @@
         "userAdded": false
       },
       {
-        "file": "Blue car vector image on VectorStock 1.png",
-        "kind": "image",
-        "metadata": "",
-        "name": "Blue car vector image on VectorStock 1.png",
-        "smoothed": true,
-        "userAdded": false
-      },
-      {
-        "file": "assets/NewSprite10.png",
-        "kind": "image",
-        "metadata": "{\"extension\":\".png\"}",
-        "name": "NewSprite10",
-        "smoothed": true,
-        "userAdded": false
-      },
-      {
-        "file": "image 4 (1).png",
-        "kind": "image",
-        "metadata": "",
-        "name": "image 4 (1).png",
-        "smoothed": true,
-        "userAdded": false
-      },
-      {
         "file": "LondrinaSolid-Black3.ttf",
         "kind": "font",
         "metadata": "",
@@ -1141,14 +989,6 @@
         "kind": "image",
         "metadata": "",
         "name": "Fundo amarelo com uma cor amarelo claro_ _ Foto Premium 1 (1).png",
-        "smoothed": true,
-        "userAdded": false
-      },
-      {
-        "file": "Tak berjudul421_20250901091636 1 (2).png",
-        "kind": "image",
-        "metadata": "",
-        "name": "Tak berjudul421_20250901091636 1 (2).png",
         "smoothed": true,
         "userAdded": false
       },
@@ -1177,38 +1017,6 @@
         "userAdded": false
       },
       {
-        "file": "Tak berjudul421_20250901091605 1.png",
-        "kind": "image",
-        "metadata": "",
-        "name": "Tak berjudul421_20250901091605 1.png",
-        "smoothed": true,
-        "userAdded": false
-      },
-      {
-        "file": "Tak berjudul421_20250901091525 1.png",
-        "kind": "image",
-        "metadata": "",
-        "name": "Tak berjudul421_20250901091525 1.png",
-        "smoothed": true,
-        "userAdded": false
-      },
-      {
-        "file": "lampu kuning.png",
-        "kind": "image",
-        "metadata": "",
-        "name": "lampu kuning.png",
-        "smoothed": true,
-        "userAdded": false
-      },
-      {
-        "file": "lampu merah.png",
-        "kind": "image",
-        "metadata": "",
-        "name": "lampu merah.png",
-        "smoothed": true,
-        "userAdded": false
-      },
-      {
         "file": "Tak berjudul421_20250901091525 1 (1).png",
         "kind": "image",
         "metadata": "",
@@ -1229,38 +1037,6 @@
         "kind": "image",
         "metadata": "{\"extension\":\".png\"}",
         "name": "NewSprite11",
-        "smoothed": true,
-        "userAdded": false
-      },
-      {
-        "file": "Senza titolo 380_20250901012752 2 (3).png",
-        "kind": "image",
-        "metadata": "",
-        "name": "Senza titolo 380_20250901012752 2 (3).png",
-        "smoothed": true,
-        "userAdded": false
-      },
-      {
-        "file": "Senza titolo 380_20250901012752 2 (2).png",
-        "kind": "image",
-        "metadata": "",
-        "name": "Senza titolo 380_20250901012752 2 (2).png",
-        "smoothed": true,
-        "userAdded": false
-      },
-      {
-        "file": "Senza titolo 390_20250901080002 2 (4).png",
-        "kind": "image",
-        "metadata": "",
-        "name": "Senza titolo 390_20250901080002 2 (4).png",
-        "smoothed": true,
-        "userAdded": false
-      },
-      {
-        "file": "Senza titolo 390_20250901080002 2 (3).png",
-        "kind": "image",
-        "metadata": "",
-        "name": "Senza titolo 390_20250901080002 2 (3).png",
         "smoothed": true,
         "userAdded": false
       },
@@ -1305,50 +1081,10 @@
         "userAdded": false
       },
       {
-        "file": "Tak berjudul471_20250912031221 2.png",
-        "kind": "image",
-        "metadata": "{\"localFilePath\":\"Tak berjudul471_20250912031221 2.png\",\"extension\":\".png\"}",
-        "name": "Tak berjudul471_20250912031221 2.png",
-        "smoothed": true,
-        "userAdded": false
-      },
-      {
-        "file": "assets/Tak berjudul471_20250912031221 2.png",
-        "kind": "image",
-        "metadata": "{\"extension\":\".png\"}",
-        "name": "Tak berjudul471_20250912031221 2",
-        "smoothed": true,
-        "userAdded": false
-      },
-      {
-        "file": "assets/Tak berjudul471_202509120312213.png",
-        "kind": "image",
-        "metadata": "{\"extension\":\".png\"}",
-        "name": "Tak berjudul471_202509120312213",
-        "smoothed": true,
-        "userAdded": false
-      },
-      {
-        "file": "90448bf012cd1fbac5207a8cf9c1a186f588c026.png",
-        "kind": "image",
-        "metadata": "",
-        "name": "90448bf012cd1fbac5207a8cf9c1a186f588c026.png",
-        "smoothed": true,
-        "userAdded": false
-      },
-      {
         "file": "Tak berjudul471_20250912031311 1.png",
         "kind": "image",
         "metadata": "",
         "name": "Tak berjudul471_20250912031311 1.png",
-        "smoothed": true,
-        "userAdded": false
-      },
-      {
-        "file": "Tak berjudul471_20250912024732 2.png",
-        "kind": "image",
-        "metadata": "",
-        "name": "Tak berjudul471_20250912024732 2.png",
         "smoothed": true,
         "userAdded": false
       },
@@ -1381,22 +1117,6 @@
         "kind": "image",
         "metadata": "",
         "name": "ban_ijoooooooooo2.png",
-        "smoothed": true,
-        "userAdded": false
-      },
-      {
-        "file": "ban_kuning.png",
-        "kind": "image",
-        "metadata": "",
-        "name": "ban_kuning.png",
-        "smoothed": true,
-        "userAdded": false
-      },
-      {
-        "file": "assets/ban_kuning.png",
-        "kind": "image",
-        "metadata": "{\"extension\":\".png\"}",
-        "name": "ban_kuning",
         "smoothed": true,
         "userAdded": false
       },
@@ -1437,14 +1157,6 @@
         "kind": "image",
         "metadata": "",
         "name": "lampu_merah.png",
-        "smoothed": true,
-        "userAdded": false
-      },
-      {
-        "file": "C:/Users/Aulia/Downloads/Frame 74.png",
-        "kind": "image",
-        "metadata": "",
-        "name": "C:\\Users\\Aulia\\Downloads\\Frame 74.png",
         "smoothed": true,
         "userAdded": false
       },
@@ -1713,26 +1425,10 @@
         "userAdded": false
       },
       {
-        "file": "Tak berjudul478_20250916063412 2.png",
-        "kind": "image",
-        "metadata": "",
-        "name": "Tak berjudul478_20250916063412 2.png",
-        "smoothed": true,
-        "userAdded": false
-      },
-      {
         "file": "Tak berjudul478_20250916063433 (1) 2.png",
         "kind": "image",
         "metadata": "",
         "name": "Tak berjudul478_20250916063433 (1) 2.png",
-        "smoothed": true,
-        "userAdded": false
-      },
-      {
-        "file": "Tak berjudul478_20250916063423 2.png",
-        "kind": "image",
-        "metadata": "",
-        "name": "Tak berjudul478_20250916063423 2.png",
         "smoothed": true,
         "userAdded": false
       },
@@ -1829,14 +1525,6 @@
         "kind": "image",
         "metadata": "",
         "name": "Game Developer.png",
-        "smoothed": true,
-        "userAdded": false
-      },
-      {
-        "file": "Designer.png",
-        "kind": "image",
-        "metadata": "",
-        "name": "Designer.png",
         "smoothed": true,
         "userAdded": false
       },
