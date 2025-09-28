@@ -1,7 +1,7 @@
 {
   "firstLayout": "Home",
   "gdVersion": {
-    "build": 236,
+    "build": 242,
     "major": 5,
     "minor": 5,
     "revision": 0
@@ -1567,6 +1567,364 @@
         "name": "image 11.png",
         "smoothed": true,
         "userAdded": false
+      },
+      {
+        "file": "main menu bgm - safety first.wav",
+        "kind": "audio",
+        "metadata": "",
+        "name": "main menu bgm - safety first.wav",
+        "preloadAsMusic": false,
+        "preloadAsSound": false,
+        "preloadInCache": false,
+        "userAdded": false
+      },
+      {
+        "file": "play button - safety first.wav",
+        "kind": "audio",
+        "metadata": "",
+        "name": "play button - safety first.wav",
+        "preloadAsMusic": false,
+        "preloadAsSound": false,
+        "preloadInCache": false,
+        "userAdded": false
+      },
+      {
+        "file": "button setting & credit - safety first.wav",
+        "kind": "audio",
+        "metadata": "",
+        "name": "button setting & credit - safety first.wav",
+        "preloadAsMusic": false,
+        "preloadAsSound": false,
+        "preloadInCache": false,
+        "userAdded": false
+      },
+      {
+        "file": "button confirm di setting - safety first.wav",
+        "kind": "audio",
+        "metadata": "",
+        "name": "button confirm di setting - safety first.wav",
+        "preloadAsMusic": false,
+        "preloadAsSound": false,
+        "preloadInCache": false,
+        "userAdded": false
+      },
+      {
+        "file": "button cancel - safety first.wav",
+        "kind": "audio",
+        "metadata": "",
+        "name": "button cancel - safety first.wav",
+        "preloadAsMusic": false,
+        "preloadAsSound": false,
+        "preloadInCache": false,
+        "userAdded": false
+      },
+      {
+        "file": "button back - safety first.wav",
+        "kind": "audio",
+        "metadata": "",
+        "name": "button back - safety first.wav",
+        "preloadAsMusic": false,
+        "preloadAsSound": false,
+        "preloadInCache": false,
+        "userAdded": false
+      },
+      {
+        "file": "pencet level - safety first.wav",
+        "kind": "audio",
+        "metadata": "",
+        "name": "pencet level - safety first.wav",
+        "preloadAsMusic": false,
+        "preloadAsSound": false,
+        "preloadInCache": false,
+        "userAdded": false
+      },
+      {
+        "file": "unlock level - safety first.wav",
+        "kind": "audio",
+        "metadata": "",
+        "name": "unlock level - safety first.wav",
+        "preloadAsMusic": false,
+        "preloadAsSound": false,
+        "preloadInCache": false,
+        "userAdded": false
+      },
+      {
+        "file": "button back - safety first (1).wav",
+        "kind": "audio",
+        "metadata": "",
+        "name": "button back - safety first (1).wav",
+        "preloadAsMusic": false,
+        "preloadAsSound": false,
+        "preloadInCache": false,
+        "userAdded": false
+      },
+      {
+        "file": "level 1 (di ruang tamu & dapur) bgm - safety first.wav",
+        "kind": "audio",
+        "metadata": "",
+        "name": "level 1 (di ruang tamu & dapur) bgm - safety first.wav",
+        "preloadAsMusic": false,
+        "preloadAsSound": false,
+        "preloadInCache": false,
+        "userAdded": false
+      },
+      {
+        "file": "anak kelinci kaget lihat kabel listrik - safety first.wav",
+        "kind": "audio",
+        "metadata": "",
+        "name": "anak kelinci kaget lihat kabel listrik - safety first.wav",
+        "preloadAsMusic": false,
+        "preloadAsSound": false,
+        "preloadInCache": false,
+        "userAdded": false
+      },
+      {
+        "file": "peringatan kabel kena tangan - safety first.wav",
+        "kind": "audio",
+        "metadata": "",
+        "name": "peringatan kabel kena tangan - safety first.wav",
+        "preloadAsMusic": false,
+        "preloadAsSound": false,
+        "preloadInCache": false,
+        "userAdded": false
+      },
+      {
+        "file": "jawaban benar - safety first.wav",
+        "kind": "audio",
+        "metadata": "",
+        "name": "jawaban benar - safety first.wav",
+        "preloadAsMusic": false,
+        "preloadAsSound": false,
+        "preloadInCache": false,
+        "userAdded": false
+      },
+      {
+        "file": "jawaban salah - safety first.wav",
+        "kind": "audio",
+        "metadata": "",
+        "name": "jawaban salah - safety first.wav",
+        "preloadAsMusic": false,
+        "preloadAsSound": false,
+        "preloadInCache": false,
+        "userAdded": false
+      },
+      {
+        "file": "suara aliran listrik saat menyentuh langsung kabel - safety first (1).wav",
+        "kind": "audio",
+        "metadata": "",
+        "name": "suara aliran listrik saat menyentuh langsung kabel - safety first (1).wav",
+        "preloadAsMusic": false,
+        "preloadAsSound": false,
+        "preloadInCache": false,
+        "userAdded": false
+      },
+      {
+        "file": "button continue - safety first (1).wav",
+        "kind": "audio",
+        "metadata": "",
+        "name": "button continue - safety first (1).wav",
+        "preloadAsMusic": false,
+        "preloadAsSound": false,
+        "preloadInCache": false,
+        "userAdded": false
+      },
+      {
+        "file": "api saat panci kebakaran - safety first.wav",
+        "kind": "audio",
+        "metadata": "",
+        "name": "api saat panci kebakaran - safety first.wav",
+        "preloadAsMusic": false,
+        "preloadAsSound": false,
+        "preloadInCache": false,
+        "userAdded": false
+      },
+      {
+        "file": "stage panci selesai - safety first.wav",
+        "kind": "audio",
+        "metadata": "",
+        "name": "stage panci selesai - safety first.wav",
+        "preloadAsMusic": false,
+        "preloadAsSound": false,
+        "preloadInCache": false,
+        "userAdded": false
+      },
+      {
+        "file": "button continue - safety first (2).wav",
+        "kind": "audio",
+        "metadata": "",
+        "name": "button continue - safety first (2).wav",
+        "preloadAsMusic": false,
+        "preloadAsSound": false,
+        "preloadInCache": false,
+        "userAdded": false
+      },
+      {
+        "file": "sfx tap tap panci - safety first.wav",
+        "kind": "audio",
+        "metadata": "",
+        "name": "sfx tap tap panci - safety first.wav",
+        "preloadAsMusic": false,
+        "preloadAsSound": false,
+        "preloadInCache": false,
+        "userAdded": false
+      },
+      {
+        "file": "api di panci berhasil dipadamkan - safety first.wav",
+        "kind": "audio",
+        "metadata": "",
+        "name": "api di panci berhasil dipadamkan - safety first.wav",
+        "preloadAsMusic": false,
+        "preloadAsSound": false,
+        "preloadInCache": false,
+        "userAdded": false
+      },
+      {
+        "file": "assets/NewSprite.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "NewSprite",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "file": "assets/NewSprite2.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "NewSprite2",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "file": "level 2 (gempa bumi) bgm - safety first.wav",
+        "kind": "audio",
+        "metadata": "",
+        "name": "level 2 (gempa bumi) bgm - safety first.wav",
+        "preloadAsMusic": false,
+        "preloadAsSound": false,
+        "preloadInCache": false,
+        "userAdded": false
+      },
+      {
+        "file": "footstep keluar kelas - safety first.wav",
+        "kind": "audio",
+        "metadata": "",
+        "name": "footstep keluar kelas - safety first.wav",
+        "preloadAsMusic": false,
+        "preloadAsSound": false,
+        "preloadInCache": false,
+        "userAdded": false
+      },
+      {
+        "file": "assets/NewSprite3.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "NewSprite3",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "file": "footstep keluar sekolah - safety first.wav",
+        "kind": "audio",
+        "metadata": "",
+        "name": "footstep keluar sekolah - safety first.wav",
+        "preloadAsMusic": false,
+        "preloadAsSound": false,
+        "preloadInCache": false,
+        "userAdded": false
+      },
+      {
+        "file": "peringatan gempa bumi - safety first (1).wav",
+        "kind": "audio",
+        "metadata": "",
+        "name": "peringatan gempa bumi - safety first (1).wav",
+        "preloadAsMusic": false,
+        "preloadAsSound": false,
+        "preloadInCache": false,
+        "userAdded": false
+      },
+      {
+        "file": "mobil lewat sebelum ganti lampu - safety first.wav",
+        "kind": "audio",
+        "metadata": "",
+        "name": "mobil lewat sebelum ganti lampu - safety first.wav",
+        "preloadAsMusic": false,
+        "preloadAsSound": false,
+        "preloadInCache": false,
+        "userAdded": false
+      },
+      {
+        "file": "level 3 (di jalan raya) bgm - safety first.wav",
+        "kind": "audio",
+        "metadata": "",
+        "name": "level 3 (di jalan raya) bgm - safety first.wav",
+        "preloadAsMusic": false,
+        "preloadAsSound": false,
+        "preloadInCache": false,
+        "userAdded": false
+      },
+      {
+        "file": "lampu berubah kuning - safety first.wav",
+        "kind": "audio",
+        "metadata": "",
+        "name": "lampu berubah kuning - safety first.wav",
+        "preloadAsMusic": false,
+        "preloadAsSound": false,
+        "preloadInCache": false,
+        "userAdded": false
+      },
+      {
+        "file": "lampu berubah merah - safety first.wav",
+        "kind": "audio",
+        "metadata": "",
+        "name": "lampu berubah merah - safety first.wav",
+        "preloadAsMusic": false,
+        "preloadAsSound": false,
+        "preloadInCache": false,
+        "userAdded": false
+      },
+      {
+        "file": "lampu berubah merah - safety first2.wav",
+        "kind": "audio",
+        "metadata": "",
+        "name": "lampu berubah merah - safety first2.wav",
+        "preloadAsMusic": false,
+        "preloadAsSound": false,
+        "preloadInCache": false,
+        "userAdded": false
+      },
+      {
+        "file": "assets/NewSprite10.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "NewSprite10",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "file": "assets/NewSprite13.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "NewSprite13",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "file": "assets/NewSprite14.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "NewSprite14",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "file": "footstep nyebrang - safety first.wav",
+        "kind": "audio",
+        "metadata": "",
+        "name": "footstep nyebrang - safety first.wav",
+        "preloadAsMusic": false,
+        "preloadAsSound": false,
+        "preloadInCache": false,
+        "userAdded": false
       }
     ],
     "resourceFolders": []
@@ -1613,7 +1971,7 @@
         {
           "name": "BGM",
           "type": "number",
-          "value": 50
+          "value": 5
         },
         {
           "name": "SFX",
@@ -1741,7 +2099,7 @@
           "height": 0,
           "keepRatio": true,
           "layer": "",
-          "name": "settings",
+          "name": "setting",
           "persistentUuid": "66004c82-7262-49d2-a82b-033dbb71f35e",
           "width": 0,
           "x": 262,
@@ -2357,7 +2715,7 @@
         {
           "adaptCollisionMaskAutomatically": true,
           "assetStoreId": "",
-          "name": "settings",
+          "name": "setting",
           "type": "Sprite",
           "updateIfNotVisible": false,
           "variables": [],
@@ -2776,7 +3134,7 @@
             "objectName": "seru_kanan"
           },
           {
-            "objectName": "settings"
+            "objectName": "setting"
           },
           {
             "objectName": "elemen_panci"
@@ -2809,6 +3167,39 @@
             }
           ],
           "actions": [
+            {
+              "type": {
+                "value": "ReadStringFromStorage"
+              },
+              "parameters": [
+                "\"settings\"",
+                "\"audio\"",
+                "",
+                "temp"
+              ]
+            },
+            {
+              "type": {
+                "value": "JSONToVariableStructure2"
+              },
+              "parameters": [
+                "temp",
+                "settings"
+              ]
+            },
+            {
+              "type": {
+                "value": "PlayMusicCanal"
+              },
+              "parameters": [
+                "",
+                "main menu bgm - safety first.wav",
+                "1",
+                "yes",
+                "settings.BGM",
+                "1"
+              ]
+            },
             {
               "type": {
                 "value": "ShakeObject::ShakeObject_PositionAngle::ShakeObject_PositionAngle"
@@ -2873,6 +3264,38 @@
                 ""
               ]
             }
+          ],
+          "events": [
+            {
+              "type": "BuiltinCommonInstructions::Standard",
+              "conditions": [
+                {
+                  "type": {
+                    "inverted": true,
+                    "value": "MusicPlaying"
+                  },
+                  "parameters": [
+                    "",
+                    "1"
+                  ]
+                }
+              ],
+              "actions": [
+                {
+                  "type": {
+                    "value": "PlayMusicCanal"
+                  },
+                  "parameters": [
+                    "",
+                    "main menu bgm - safety first.wav",
+                    "2",
+                    "yes",
+                    "settings.BGM",
+                    "1"
+                  ]
+                }
+              ]
+            }
           ]
         },
         {
@@ -2913,6 +3336,19 @@
           "actions": [
             {
               "type": {
+                "value": "PlaySoundCanal"
+              },
+              "parameters": [
+                "",
+                "play button - safety first.wav",
+                "2",
+                "",
+                "settings.SFX",
+                "1"
+              ]
+            },
+            {
+              "type": {
                 "value": "Scene"
               },
               "parameters": [
@@ -2950,6 +3386,19 @@
           "actions": [
             {
               "type": {
+                "value": "PlaySoundCanal"
+              },
+              "parameters": [
+                "",
+                "button setting & credit - safety first.wav",
+                "2",
+                "",
+                "settings.SFX",
+                "1"
+              ]
+            },
+            {
+              "type": {
                 "value": "Scene"
               },
               "parameters": [
@@ -2968,7 +3417,7 @@
                 "value": "SourisSurObjet"
               },
               "parameters": [
-                "settings",
+                "setting",
                 "",
                 "",
                 ""
@@ -2985,6 +3434,19 @@
             }
           ],
           "actions": [
+            {
+              "type": {
+                "value": "PlaySoundCanal"
+              },
+              "parameters": [
+                "",
+                "button setting & credit - safety first.wav",
+                "2",
+                "",
+                "settings.SFX",
+                "1"
+              ]
+            },
             {
               "type": {
                 "value": "Scene"
@@ -3118,7 +3580,7 @@
       "name": "Credits",
       "r": 209,
       "standardSortMethod": true,
-      "stopSoundsOnStartup": true,
+      "stopSoundsOnStartup": false,
       "title": "",
       "v": 209,
       "uiSettings": {
@@ -4873,6 +5335,19 @@
           "actions": [
             {
               "type": {
+                "value": "PlaySoundCanal"
+              },
+              "parameters": [
+                "",
+                "button back - safety first.wav",
+                "2",
+                "",
+                "settings.SFX",
+                "1"
+              ]
+            },
+            {
+              "type": {
                 "value": "Scene"
               },
               "parameters": [
@@ -5000,7 +5475,7 @@
       "name": "Settings",
       "r": 209,
       "standardSortMethod": true,
-      "stopSoundsOnStartup": true,
+      "stopSoundsOnStartup": false,
       "title": "",
       "v": 209,
       "uiSettings": {
@@ -5142,7 +5617,7 @@
           "persistentUuid": "d631ddbd-e3aa-477e-b868-ff22eb2a23c3",
           "width": 390,
           "x": 496,
-          "y": 331,
+          "y": 215,
           "zOrder": 8,
           "numberProperties": [],
           "stringProperties": [],
@@ -5158,7 +5633,7 @@
           "persistentUuid": "1a0b7c50-88e2-466d-b1fb-846f112bd5aa",
           "width": 390,
           "x": 496,
-          "y": 215,
+          "y": 331,
           "zOrder": 9,
           "numberProperties": [],
           "stringProperties": [],
@@ -5934,7 +6409,7 @@
                   },
                   "parameters": [
                     "",
-                    "2",
+                    "1",
                     "=",
                     "BGM.Value()"
                   ]
@@ -5971,7 +6446,18 @@
                   },
                   "parameters": [
                     "",
-                    "1",
+                    "2",
+                    "=",
+                    "SFX.Value()"
+                  ]
+                },
+                {
+                  "type": {
+                    "value": "ModVolumeSoundCanal"
+                  },
+                  "parameters": [
+                    "",
+                    "3",
                     "=",
                     "SFX.Value()"
                   ]
@@ -6013,6 +6499,19 @@
                     "\"settings\"",
                     "\"audio\"",
                     "ToJSON(settings)"
+                  ]
+                },
+                {
+                  "type": {
+                    "value": "PlaySoundCanal"
+                  },
+                  "parameters": [
+                    "",
+                    "button confirm di setting - safety first.wav",
+                    "2",
+                    "",
+                    "settings.SFX",
+                    "1"
                   ]
                 },
                 {
@@ -6074,6 +6573,19 @@
                     "=",
                     "settings.SFX",
                     ""
+                  ]
+                },
+                {
+                  "type": {
+                    "value": "PlaySoundCanal"
+                  },
+                  "parameters": [
+                    "",
+                    "button cancel - safety first.wav",
+                    "2",
+                    "",
+                    "settings.SFX",
+                    "1"
                   ]
                 },
                 {
@@ -6204,7 +6716,7 @@
       "name": "Menu",
       "r": 209,
       "standardSortMethod": true,
-      "stopSoundsOnStartup": true,
+      "stopSoundsOnStartup": false,
       "title": "",
       "v": 209,
       "uiSettings": {
@@ -7888,6 +8400,38 @@
                 "no"
               ]
             }
+          ],
+          "events": [
+            {
+              "type": "BuiltinCommonInstructions::Standard",
+              "conditions": [
+                {
+                  "type": {
+                    "inverted": true,
+                    "value": "MusicPlaying"
+                  },
+                  "parameters": [
+                    "",
+                    "1"
+                  ]
+                }
+              ],
+              "actions": [
+                {
+                  "type": {
+                    "value": "PlayMusicCanal"
+                  },
+                  "parameters": [
+                    "",
+                    "main menu bgm - safety first.wav",
+                    "2",
+                    "yes",
+                    "settings.BGM",
+                    "1"
+                  ]
+                }
+              ]
+            }
           ]
         },
         {
@@ -8162,6 +8706,19 @@
               "actions": [
                 {
                   "type": {
+                    "value": "PlaySoundCanal"
+                  },
+                  "parameters": [
+                    "",
+                    "pencet level - safety first.wav",
+                    "2",
+                    "",
+                    "settings.SFX",
+                    "1"
+                  ]
+                },
+                {
+                  "type": {
                     "value": "Scene"
                   },
                   "parameters": [
@@ -8180,7 +8737,6 @@
           "colorG": 176,
           "colorR": 74,
           "creationTime": 0,
-          "folded": true,
           "name": "Level 2",
           "source": "",
           "type": "BuiltinCommonInstructions::Group",
@@ -8200,6 +8756,19 @@
                 }
               ],
               "actions": [
+                {
+                  "type": {
+                    "value": "PlaySoundCanal"
+                  },
+                  "parameters": [
+                    "",
+                    "unlock level - safety first.wav",
+                    "2",
+                    "",
+                    "settings.SFX",
+                    "1"
+                  ]
+                },
                 {
                   "type": {
                     "value": "ActivateBehavior"
@@ -8257,7 +8826,6 @@
           "colorG": 176,
           "colorR": 74,
           "creationTime": 0,
-          "folded": true,
           "name": "Level 3",
           "source": "",
           "type": "BuiltinCommonInstructions::Group",
@@ -8277,6 +8845,19 @@
                 }
               ],
               "actions": [
+                {
+                  "type": {
+                    "value": "PlaySoundCanal"
+                  },
+                  "parameters": [
+                    "",
+                    "unlock level - safety first.wav",
+                    "2",
+                    "",
+                    "settings.SFX",
+                    "1"
+                  ]
+                },
                 {
                   "type": {
                     "value": "ActivateBehavior"
@@ -8402,6 +8983,19 @@
               "actions": [
                 {
                   "type": {
+                    "value": "PlaySoundCanal"
+                  },
+                  "parameters": [
+                    "",
+                    "pencet level - safety first.wav",
+                    "2",
+                    "",
+                    "settings.SFX",
+                    "1"
+                  ]
+                },
+                {
+                  "type": {
                     "value": "Scene"
                   },
                   "parameters": [
@@ -8476,6 +9070,19 @@
               "actions": [
                 {
                   "type": {
+                    "value": "PlaySoundCanal"
+                  },
+                  "parameters": [
+                    "",
+                    "pencet level - safety first.wav",
+                    "2",
+                    "",
+                    "settings.SFX",
+                    "1"
+                  ]
+                },
+                {
+                  "type": {
                     "value": "Scene"
                   },
                   "parameters": [
@@ -8501,6 +9108,19 @@
                 }
               ],
               "actions": [
+                {
+                  "type": {
+                    "value": "PlaySoundCanal"
+                  },
+                  "parameters": [
+                    "",
+                    "button back - safety first (1).wav",
+                    "2",
+                    "",
+                    "settings.SFX",
+                    "1"
+                  ]
+                },
                 {
                   "type": {
                     "value": "Scene"
@@ -8731,7 +9351,7 @@
       "name": "Level 1",
       "r": 209,
       "standardSortMethod": true,
-      "stopSoundsOnStartup": true,
+      "stopSoundsOnStartup": false,
       "title": "",
       "v": 209,
       "uiSettings": {
@@ -10320,6 +10940,19 @@
           "actions": [
             {
               "type": {
+                "value": "PlayMusicCanal"
+              },
+              "parameters": [
+                "",
+                "level 1 (di ruang tamu & dapur) bgm - safety first.wav",
+                "1",
+                "yes",
+                "settings.BGM",
+                "1"
+              ]
+            },
+            {
+              "type": {
                 "value": "ShakeObject::ShakeObject_PositionAngle::ShakeObject_PositionAngle"
               },
               "parameters": [
@@ -10377,6 +11010,19 @@
                 }
               ],
               "actions": [
+                {
+                  "type": {
+                    "value": "PlaySoundCanal"
+                  },
+                  "parameters": [
+                    "",
+                    "anak kelinci kaget lihat kabel listrik - safety first.wav",
+                    "2",
+                    "",
+                    "settings.SFX",
+                    "1"
+                  ]
+                },
                 {
                   "type": {
                     "value": "AnimatableCapability::AnimatableBehavior::SetIndex"
@@ -10526,6 +11172,19 @@
                     "1.5",
                     ""
                   ]
+                },
+                {
+                  "type": {
+                    "value": "PlaySoundCanal"
+                  },
+                  "parameters": [
+                    "",
+                    "peringatan kabel kena tangan - safety first.wav",
+                    "3",
+                    "no",
+                    "settings.SFX",
+                    "1"
+                  ]
                 }
               ]
             }
@@ -10595,7 +11254,7 @@
                     "value": "Wait"
                   },
                   "parameters": [
-                    "7"
+                    "6"
                   ]
                 },
                 {
@@ -10802,7 +11461,7 @@
       "name": "Pertanyaan",
       "r": 252,
       "standardSortMethod": true,
-      "stopSoundsOnStartup": true,
+      "stopSoundsOnStartup": false,
       "title": "",
       "v": 211,
       "uiSettings": {
@@ -10818,7 +11477,41 @@
         "zoomFactor": 0.3797121001947939,
         "windowMask": false
       },
-      "objectsGroups": [],
+      "objectsGroups": [
+        {
+          "name": "A2",
+          "objects": [
+            {
+              "name": "papan_A"
+            },
+            {
+              "name": "A"
+            }
+          ]
+        },
+        {
+          "name": "B2",
+          "objects": [
+            {
+              "name": "papan_B"
+            },
+            {
+              "name": "B"
+            }
+          ]
+        },
+        {
+          "name": "C2",
+          "objects": [
+            {
+              "name": "papan_C"
+            },
+            {
+              "name": "C"
+            }
+          ]
+        }
+      ],
       "variables": [],
       "instances": [
         {
@@ -12658,41 +13351,46 @@
               ]
             }
           ],
-          "actions": []
+          "actions": [
+            {
+              "type": {
+                "value": "StopSoundCanal"
+              },
+              "parameters": [
+                "",
+                "3"
+              ]
+            }
+          ]
         },
         {
           "type": "BuiltinCommonInstructions::Standard",
           "conditions": [
             {
               "type": {
-                "value": "BuiltinCommonInstructions::Or"
+                "value": "ButtonStates::ButtonFSM::IsClicked"
               },
-              "parameters": [],
-              "subInstructions": [
-                {
-                  "type": {
-                    "value": "ButtonStates::ButtonFSM::IsClicked"
-                  },
-                  "parameters": [
-                    "papan_A",
-                    "ButtonFSM",
-                    ""
-                  ]
-                },
-                {
-                  "type": {
-                    "value": "ButtonStates::ButtonFSM::IsClicked"
-                  },
-                  "parameters": [
-                    "A",
-                    "ButtonFSM",
-                    ""
-                  ]
-                }
+              "parameters": [
+                "A2",
+                "ButtonFSM",
+                ""
               ]
             }
           ],
           "actions": [
+            {
+              "type": {
+                "value": "PlaySoundCanal"
+              },
+              "parameters": [
+                "",
+                "jawaban salah - safety first.wav",
+                "2",
+                "",
+                "settings.SFX",
+                "1"
+              ]
+            },
             {
               "type": {
                 "value": "OpacityCapability::OpacityBehavior::SetValue"
@@ -12860,34 +13558,29 @@
           "conditions": [
             {
               "type": {
-                "value": "BuiltinCommonInstructions::Or"
+                "value": "ButtonStates::ButtonFSM::IsClicked"
               },
-              "parameters": [],
-              "subInstructions": [
-                {
-                  "type": {
-                    "value": "ButtonStates::ButtonFSM::IsClicked"
-                  },
-                  "parameters": [
-                    "papan_B",
-                    "ButtonFSM",
-                    ""
-                  ]
-                },
-                {
-                  "type": {
-                    "value": "ButtonStates::ButtonFSM::IsClicked"
-                  },
-                  "parameters": [
-                    "B",
-                    "ButtonFSM",
-                    ""
-                  ]
-                }
+              "parameters": [
+                "B2",
+                "ButtonFSM",
+                ""
               ]
             }
           ],
           "actions": [
+            {
+              "type": {
+                "value": "PlaySoundCanal"
+              },
+              "parameters": [
+                "",
+                "jawaban benar - safety first.wav",
+                "2",
+                "",
+                "settings.SFX",
+                "1"
+              ]
+            },
             {
               "type": {
                 "value": "OpacityCapability::OpacityBehavior::SetValue"
@@ -13055,34 +13748,29 @@
           "conditions": [
             {
               "type": {
-                "value": "BuiltinCommonInstructions::Or"
+                "value": "ButtonStates::ButtonFSM::IsClicked"
               },
-              "parameters": [],
-              "subInstructions": [
-                {
-                  "type": {
-                    "value": "ButtonStates::ButtonFSM::IsClicked"
-                  },
-                  "parameters": [
-                    "papan_C",
-                    "ButtonFSM",
-                    ""
-                  ]
-                },
-                {
-                  "type": {
-                    "value": "ButtonStates::ButtonFSM::IsClicked"
-                  },
-                  "parameters": [
-                    "C",
-                    "ButtonFSM",
-                    ""
-                  ]
-                }
+              "parameters": [
+                "C2",
+                "ButtonFSM",
+                ""
               ]
             }
           ],
           "actions": [
+            {
+              "type": {
+                "value": "PlaySoundCanal"
+              },
+              "parameters": [
+                "",
+                "jawaban salah - safety first.wav",
+                "2",
+                "",
+                "settings.SFX",
+                "1"
+              ]
+            },
             {
               "type": {
                 "value": "OpacityCapability::OpacityBehavior::SetValue"
@@ -13244,172 +13932,6 @@
               ]
             }
           ]
-        },
-        {
-          "disabled": true,
-          "type": "BuiltinCommonInstructions::Standard",
-          "conditions": [
-            {
-              "type": {
-                "value": "BuiltinCommonInstructions::Or"
-              },
-              "parameters": [],
-              "subInstructions": [
-                {
-                  "type": {
-                    "value": "NumberVariable"
-                  },
-                  "parameters": [
-                    "tombol[0]",
-                    "=",
-                    "1"
-                  ]
-                },
-                {
-                  "type": {
-                    "value": "NumberVariable"
-                  },
-                  "parameters": [
-                    "tombol[1]",
-                    "=",
-                    "1"
-                  ]
-                },
-                {
-                  "type": {
-                    "value": "NumberVariable"
-                  },
-                  "parameters": [
-                    "tombol[2]",
-                    "=",
-                    "1"
-                  ]
-                }
-              ]
-            }
-          ],
-          "actions": [
-            {
-              "type": {
-                "value": "ActivateBehavior"
-              },
-              "parameters": [
-                "papan_A",
-                "ButtonScaleTween",
-                "yes"
-              ]
-            },
-            {
-              "type": {
-                "value": "ActivateBehavior"
-              },
-              "parameters": [
-                "A",
-                "ButtonScaleTween",
-                "yes"
-              ]
-            },
-            {
-              "type": {
-                "value": "ActivateBehavior"
-              },
-              "parameters": [
-                "B",
-                "ButtonScaleTween",
-                "yes"
-              ]
-            },
-            {
-              "type": {
-                "value": "ActivateBehavior"
-              },
-              "parameters": [
-                "papan_B",
-                "ButtonScaleTween",
-                "yes"
-              ]
-            },
-            {
-              "type": {
-                "value": "ActivateBehavior"
-              },
-              "parameters": [
-                "C",
-                "ButtonScaleTween",
-                "yes"
-              ]
-            },
-            {
-              "type": {
-                "value": "ActivateBehavior"
-              },
-              "parameters": [
-                "papan_C",
-                "ButtonScaleTween",
-                "yes"
-              ]
-            },
-            {
-              "type": {
-                "value": "ActivateBehavior"
-              },
-              "parameters": [
-                "papan_A",
-                "ButtonFSM",
-                "yes"
-              ]
-            },
-            {
-              "type": {
-                "value": "ActivateBehavior"
-              },
-              "parameters": [
-                "A",
-                "ButtonFSM",
-                "yes"
-              ]
-            },
-            {
-              "type": {
-                "value": "ActivateBehavior"
-              },
-              "parameters": [
-                "B",
-                "ButtonFSM",
-                "yes"
-              ]
-            },
-            {
-              "type": {
-                "value": "ActivateBehavior"
-              },
-              "parameters": [
-                "C",
-                "ButtonFSM",
-                "yes"
-              ]
-            },
-            {
-              "type": {
-                "value": "ActivateBehavior"
-              },
-              "parameters": [
-                "papan_B",
-                "ButtonFSM",
-                "yes"
-              ]
-            },
-            {
-              "type": {
-                "value": "ActivateBehavior"
-              },
-              "parameters": [
-                "papan_C",
-                "ButtonFSM",
-                "yes"
-              ]
-            }
-          ]
         }
       ],
       "layers": [
@@ -13524,7 +14046,7 @@
       "name": "Jawaban_A",
       "r": 255,
       "standardSortMethod": true,
-      "stopSoundsOnStartup": true,
+      "stopSoundsOnStartup": false,
       "title": "",
       "v": 255,
       "uiSettings": {
@@ -15114,6 +15636,19 @@
           "actions": [
             {
               "type": {
+                "value": "PlaySoundCanal"
+              },
+              "parameters": [
+                "",
+                "suara aliran listrik saat menyentuh langsung kabel - safety first (1).wav",
+                "3",
+                "no",
+                "settings.SFX",
+                "1"
+              ]
+            },
+            {
+              "type": {
                 "value": "ShowLayer"
               },
               "parameters": [
@@ -15272,6 +15807,15 @@
             }
           ],
           "actions": [
+            {
+              "type": {
+                "value": "StopSoundCanal"
+              },
+              "parameters": [
+                "",
+                "3"
+              ]
+            },
             {
               "type": {
                 "value": "Montre"
@@ -15540,6 +16084,19 @@
           "actions": [
             {
               "type": {
+                "value": "PlaySoundCanal"
+              },
+              "parameters": [
+                "",
+                "button continue - safety first (1).wav",
+                "2",
+                "",
+                "settings.SFX",
+                "1"
+              ]
+            },
+            {
+              "type": {
                 "value": "Scene"
               },
               "parameters": [
@@ -15667,7 +16224,7 @@
       "name": "Jawaban_B",
       "r": 209,
       "standardSortMethod": true,
-      "stopSoundsOnStartup": true,
+      "stopSoundsOnStartup": false,
       "title": "",
       "v": 209,
       "uiSettings": {
@@ -17010,6 +17567,7 @@
             "textAlignment": "left",
             "verticalTextAlignment": "top",
             "characterSize": 45,
+            "lineHeight": 0,
             "color": "154;23;0"
           }
         },
@@ -17066,6 +17624,7 @@
             "textAlignment": "left",
             "verticalTextAlignment": "top",
             "characterSize": 45,
+            "lineHeight": 0,
             "color": "154;23;0"
           }
         },
@@ -17122,6 +17681,7 @@
             "textAlignment": "left",
             "verticalTextAlignment": "top",
             "characterSize": 45,
+            "lineHeight": 0,
             "color": "154;23;0"
           }
         },
@@ -17178,6 +17738,7 @@
             "textAlignment": "left",
             "verticalTextAlignment": "top",
             "characterSize": 45,
+            "lineHeight": 0,
             "color": "154;23;0"
           }
         }
@@ -17664,6 +18225,19 @@
           "actions": [
             {
               "type": {
+                "value": "PlaySoundCanal"
+              },
+              "parameters": [
+                "",
+                "jawaban benar - safety first.wav",
+                "3",
+                "",
+                "settings.SFX",
+                "1"
+              ]
+            },
+            {
+              "type": {
                 "value": "Tween::TweenBehavior::AddObjectOpacityTween2"
               },
               "parameters": [
@@ -17782,6 +18356,28 @@
             }
           ],
           "actions": [
+            {
+              "type": {
+                "value": "StopSoundCanal"
+              },
+              "parameters": [
+                "",
+                "3"
+              ]
+            },
+            {
+              "type": {
+                "value": "PlaySoundCanal"
+              },
+              "parameters": [
+                "",
+                "button continue - safety first (1).wav",
+                "2",
+                "",
+                "settings.SFX",
+                "1"
+              ]
+            },
             {
               "type": {
                 "value": "Scene"
@@ -18107,7 +18703,7 @@
       "name": "Jawaban_C",
       "r": 209,
       "standardSortMethod": true,
-      "stopSoundsOnStartup": true,
+      "stopSoundsOnStartup": false,
       "title": "",
       "v": 209,
       "uiSettings": {
@@ -19534,6 +20130,19 @@
           "actions": [
             {
               "type": {
+                "value": "PlaySoundCanal"
+              },
+              "parameters": [
+                "",
+                "button continue - safety first (1).wav",
+                "2",
+                "",
+                "settings.SFX",
+                "1"
+              ]
+            },
+            {
+              "type": {
                 "value": "Scene"
               },
               "parameters": [
@@ -19653,7 +20262,7 @@
       "name": "Teks",
       "r": 209,
       "standardSortMethod": true,
-      "stopSoundsOnStartup": true,
+      "stopSoundsOnStartup": false,
       "title": "",
       "v": 209,
       "uiSettings": {
@@ -19837,6 +20446,7 @@
             "textAlignment": "left",
             "verticalTextAlignment": "top",
             "characterSize": 60,
+            "lineHeight": 0,
             "color": "0;26;154"
           }
         },
@@ -19893,6 +20503,7 @@
             "textAlignment": "left",
             "verticalTextAlignment": "top",
             "characterSize": 60,
+            "lineHeight": 0,
             "color": "0;26;154"
           }
         }
@@ -21134,6 +21745,19 @@
           "actions": [
             {
               "type": {
+                "value": "PlaySoundCanal"
+              },
+              "parameters": [
+                "",
+                "api saat panci kebakaran - safety first.wav",
+                "3",
+                "",
+                "settings.SFX",
+                "1"
+              ]
+            },
+            {
+              "type": {
                 "value": "ActivateBehavior"
               },
               "parameters": [
@@ -21281,6 +21905,28 @@
           "actions": [
             {
               "type": {
+                "value": "StopSoundCanal"
+              },
+              "parameters": [
+                "",
+                "3"
+              ]
+            },
+            {
+              "type": {
+                "value": "PlaySoundCanal"
+              },
+              "parameters": [
+                "",
+                "stage panci selesai - safety first.wav",
+                "2",
+                "",
+                "settings.SFX",
+                "1"
+              ]
+            },
+            {
+              "type": {
                 "value": "Delete"
               },
               "parameters": [
@@ -21402,6 +22048,19 @@
             }
           ],
           "actions": [
+            {
+              "type": {
+                "value": "PlaySoundCanal"
+              },
+              "parameters": [
+                "",
+                "button continue - safety first (2).wav",
+                "2",
+                "",
+                "settings.SFX",
+                "1"
+              ]
+            },
             {
               "type": {
                 "value": "Scene"
@@ -21527,7 +22186,7 @@
       "name": "dapur ibu",
       "r": 209,
       "standardSortMethod": true,
-      "stopSoundsOnStartup": true,
+      "stopSoundsOnStartup": false,
       "title": "",
       "v": 209,
       "uiSettings": {
@@ -22490,6 +23149,19 @@
           "actions": [
             {
               "type": {
+                "value": "PlaySoundCanal"
+              },
+              "parameters": [
+                "",
+                "sfx tap tap panci - safety first.wav",
+                "3",
+                "",
+                "settings.SFX",
+                "1"
+              ]
+            },
+            {
+              "type": {
                 "value": "ActivateBehavior"
               },
               "parameters": [
@@ -22625,7 +23297,37 @@
                 "value": "Wait"
               },
               "parameters": [
-                "2"
+                "1"
+              ]
+            },
+            {
+              "type": {
+                "value": "StopSoundCanal"
+              },
+              "parameters": [
+                "",
+                "3"
+              ]
+            },
+            {
+              "type": {
+                "value": "PlaySoundCanal"
+              },
+              "parameters": [
+                "",
+                "api di panci berhasil dipadamkan - safety first.wav",
+                "2",
+                "",
+                "settings.SFX",
+                "1"
+              ]
+            },
+            {
+              "type": {
+                "value": "Wait"
+              },
+              "parameters": [
+                "1"
               ]
             },
             {
@@ -22806,7 +23508,7 @@
       "name": "Level 2",
       "r": 209,
       "standardSortMethod": true,
-      "stopSoundsOnStartup": true,
+      "stopSoundsOnStartup": false,
       "title": "",
       "v": 209,
       "uiSettings": {
@@ -23198,7 +23900,7 @@
       "name": "kucing",
       "r": 209,
       "standardSortMethod": true,
-      "stopSoundsOnStartup": true,
+      "stopSoundsOnStartup": false,
       "title": "",
       "v": 209,
       "uiSettings": {
@@ -23211,7 +23913,7 @@
         "gridColor": 10401023,
         "gridAlpha": 0.8,
         "snap": false,
-        "zoomFactor": 0.25504554733543416,
+        "zoomFactor": 2.201995813710106,
         "windowMask": false
       },
       "objectsGroups": [],
@@ -23318,15 +24020,16 @@
         },
         {
           "angle": 0,
-          "customSize": false,
-          "height": 0,
+          "customSize": true,
+          "depth": 0,
+          "height": 100,
           "keepRatio": true,
           "layer": "",
           "name": "NewSprite2",
           "persistentUuid": "dbd66242-d351-477a-8875-d07e12c907c9",
-          "width": 0,
-          "x": -285,
-          "y": 470,
+          "width": 100,
+          "x": -340,
+          "y": 446,
           "zOrder": 7,
           "numberProperties": [],
           "stringProperties": [],
@@ -23570,6 +24273,7 @@
             "textAlignment": "left",
             "verticalTextAlignment": "top",
             "characterSize": 50,
+            "lineHeight": 0,
             "color": "154;23;0"
           }
         },
@@ -23747,7 +24451,7 @@
                   "sprites": [
                     {
                       "hasCustomCollisionMask": false,
-                      "image": "NewSprite9",
+                      "image": "NewSprite",
                       "points": [],
                       "originPoint": {
                         "name": "origine",
@@ -23789,7 +24493,7 @@
                   "sprites": [
                     {
                       "hasCustomCollisionMask": false,
-                      "image": "NewSprite9",
+                      "image": "NewSprite2",
                       "points": [],
                       "originPoint": {
                         "name": "origine",
@@ -23853,6 +24557,32 @@
           "actions": [
             {
               "type": {
+                "value": "PlayMusicCanal"
+              },
+              "parameters": [
+                "",
+                "level 2 (gempa bumi) bgm - safety first.wav",
+                "1",
+                "",
+                "settings.BGM",
+                "1"
+              ]
+            },
+            {
+              "type": {
+                "value": "PlaySoundCanal"
+              },
+              "parameters": [
+                "",
+                "peringatan gempa bumi - safety first (1).wav",
+                "2",
+                "yes",
+                "settings.SFX",
+                "1"
+              ]
+            },
+            {
+              "type": {
                 "value": "ActivateBehavior"
               },
               "parameters": [
@@ -23899,6 +24629,38 @@
                 "0.10",
                 "yes",
                 ""
+              ]
+            }
+          ],
+          "events": [
+            {
+              "type": "BuiltinCommonInstructions::Standard",
+              "conditions": [
+                {
+                  "type": {
+                    "inverted": true,
+                    "value": "MusicPlaying"
+                  },
+                  "parameters": [
+                    "",
+                    "1"
+                  ]
+                }
+              ],
+              "actions": [
+                {
+                  "type": {
+                    "value": "PlayMusicCanal"
+                  },
+                  "parameters": [
+                    "",
+                    "main menu bgm - safety first.wav",
+                    "2",
+                    "yes",
+                    "settings.BGM",
+                    "1"
+                  ]
+                }
               ]
             }
           ]
@@ -24060,6 +24822,19 @@
                 }
               ],
               "actions": [
+                {
+                  "type": {
+                    "value": "PlaySoundCanal"
+                  },
+                  "parameters": [
+                    "",
+                    "footstep keluar kelas - safety first.wav",
+                    "2",
+                    "",
+                    "settings.SFX",
+                    "1"
+                  ]
+                },
                 {
                   "type": {
                     "value": "Tween::TweenBehavior::AddObjectPositionTween2"
@@ -24288,7 +25063,7 @@
       "name": "teks",
       "r": 209,
       "standardSortMethod": true,
-      "stopSoundsOnStartup": true,
+      "stopSoundsOnStartup": false,
       "title": "",
       "v": 209,
       "uiSettings": {
@@ -24472,6 +25247,7 @@
             "textAlignment": "left",
             "verticalTextAlignment": "top",
             "characterSize": 50,
+            "lineHeight": 0,
             "color": "154;23;0"
           }
         },
@@ -24528,6 +25304,7 @@
             "textAlignment": "left",
             "verticalTextAlignment": "top",
             "characterSize": 50,
+            "lineHeight": 0,
             "color": "154;23;0"
           }
         }
@@ -24788,7 +25565,7 @@
       "name": "keluar",
       "r": 209,
       "standardSortMethod": true,
-      "stopSoundsOnStartup": true,
+      "stopSoundsOnStartup": false,
       "title": "",
       "v": 209,
       "uiSettings": {
@@ -25446,6 +26223,7 @@
             "textAlignment": "left",
             "verticalTextAlignment": "top",
             "characterSize": 40,
+            "lineHeight": 0,
             "color": "154;23;0"
           }
         },
@@ -25502,6 +26280,7 @@
             "textAlignment": "left",
             "verticalTextAlignment": "top",
             "characterSize": 40,
+            "lineHeight": 0,
             "color": "154;23;0"
           }
         },
@@ -25746,7 +26525,7 @@
                   "sprites": [
                     {
                       "hasCustomCollisionMask": false,
-                      "image": "NewSprite12",
+                      "image": "NewSprite3",
                       "points": [],
                       "originPoint": {
                         "name": "origine",
@@ -25811,6 +26590,7 @@
             "textAlignment": "left",
             "verticalTextAlignment": "top",
             "characterSize": 40,
+            "lineHeight": 0,
             "color": "154;23;0"
           }
         }
@@ -25875,6 +26655,19 @@
           "actions": [
             {
               "type": {
+                "value": "PlaySoundCanal"
+              },
+              "parameters": [
+                "",
+                "footstep keluar sekolah - safety first.wav",
+                "3",
+                "yes",
+                "settings.SFX",
+                "1"
+              ]
+            },
+            {
+              "type": {
                 "value": "ActivateBehavior"
               },
               "parameters": [
@@ -25909,7 +26702,7 @@
               },
               "parameters": [
                 "back",
-                "ButtonScaleTween",
+                "ButtonFSM",
                 ""
               ]
             },
@@ -26121,6 +26914,15 @@
           "actions": [
             {
               "type": {
+                "value": "StopSoundCanal"
+              },
+              "parameters": [
+                "",
+                "3"
+              ]
+            },
+            {
+              "type": {
                 "value": "Tween::TweenBehavior::AddObjectOpacityTween2"
               },
               "parameters": [
@@ -26329,7 +27131,7 @@
               },
               "parameters": [
                 "back",
-                "ButtonScaleTween",
+                "ButtonFSM",
                 "yes"
               ]
             }
@@ -26350,6 +27152,19 @@
             }
           ],
           "actions": [
+            {
+              "type": {
+                "value": "PlaySoundCanal"
+              },
+              "parameters": [
+                "",
+                "button continue - safety first (2).wav",
+                "2",
+                "",
+                "settings.SFX",
+                "1"
+              ]
+            },
             {
               "type": {
                 "value": "Scene"
@@ -26536,7 +27351,7 @@
       "name": "Level 3",
       "r": 209,
       "standardSortMethod": true,
-      "stopSoundsOnStartup": true,
+      "stopSoundsOnStartup": false,
       "title": "",
       "v": 209,
       "uiSettings": {
@@ -27536,6 +28351,7 @@
             "textAlignment": "left",
             "verticalTextAlignment": "top",
             "characterSize": 40,
+            "lineHeight": 0,
             "color": "154;23;0"
           }
         },
@@ -27964,7 +28780,59 @@
               "parameters": [
                 ""
               ]
-            },
+            }
+          ],
+          "actions": [
+            {
+              "type": {
+                "value": "PlayMusicCanal"
+              },
+              "parameters": [
+                "",
+                "level 3 (di jalan raya) bgm - safety first.wav",
+                "1",
+                "yes",
+                "settings.BGM",
+                "1"
+              ]
+            }
+          ],
+          "events": [
+            {
+              "type": "BuiltinCommonInstructions::Standard",
+              "conditions": [
+                {
+                  "type": {
+                    "inverted": true,
+                    "value": "MusicPlaying"
+                  },
+                  "parameters": [
+                    "",
+                    "1"
+                  ]
+                }
+              ],
+              "actions": [
+                {
+                  "type": {
+                    "value": "PlayMusicCanal"
+                  },
+                  "parameters": [
+                    "",
+                    "level 3 (di jalan raya) bgm - safety first.wav",
+                    "2",
+                    "yes",
+                    "settings.BGM",
+                    "1"
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "BuiltinCommonInstructions::Standard",
+          "conditions": [
             {
               "type": {
                 "inverted": true,
@@ -27978,6 +28846,19 @@
             }
           ],
           "actions": [
+            {
+              "type": {
+                "value": "PlaySoundCanal"
+              },
+              "parameters": [
+                "",
+                "mobil lewat sebelum ganti lampu - safety first.wav",
+                "2",
+                "yes",
+                "settings.SFX",
+                "1"
+              ]
+            },
             {
               "type": {
                 "value": "Wait"
@@ -28033,10 +28914,44 @@
             },
             {
               "type": {
+                "value": "PlaySoundCanal"
+              },
+              "parameters": [
+                "",
+                "lampu berubah kuning - safety first.wav",
+                "2",
+                "",
+                "settings.SFX",
+                "1"
+              ]
+            },
+            {
+              "type": {
                 "value": "Wait"
               },
               "parameters": [
-                "5"
+                "2"
+              ]
+            },
+            {
+              "type": {
+                "value": "PlaySoundCanal"
+              },
+              "parameters": [
+                "",
+                "lampu berubah merah - safety first2.wav",
+                "2",
+                "",
+                "settings.SFX",
+                "1"
+              ]
+            },
+            {
+              "type": {
+                "value": "Wait"
+              },
+              "parameters": [
+                "4"
               ]
             },
             {
@@ -28205,7 +29120,7 @@
       "name": "jauh",
       "r": 209,
       "standardSortMethod": true,
-      "stopSoundsOnStartup": true,
+      "stopSoundsOnStartup": false,
       "title": "",
       "v": 209,
       "uiSettings": {
@@ -28918,6 +29833,7 @@
             "textAlignment": "left",
             "verticalTextAlignment": "top",
             "characterSize": 40,
+            "lineHeight": 0,
             "color": "154;23;0"
           }
         },
@@ -28974,6 +29890,7 @@
             "textAlignment": "left",
             "verticalTextAlignment": "top",
             "characterSize": 40,
+            "lineHeight": 0,
             "color": "154;23;0"
           }
         },
@@ -29806,7 +30723,7 @@
       "name": "nyebrang",
       "r": 209,
       "standardSortMethod": true,
-      "stopSoundsOnStartup": true,
+      "stopSoundsOnStartup": false,
       "title": "",
       "v": 209,
       "uiSettings": {
@@ -30692,7 +31609,7 @@
                   "sprites": [
                     {
                       "hasCustomCollisionMask": false,
-                      "image": "NewSprite11",
+                      "image": "NewSprite10",
                       "points": [],
                       "originPoint": {
                         "name": "origine",
@@ -30734,7 +31651,7 @@
                   "sprites": [
                     {
                       "hasCustomCollisionMask": false,
-                      "image": "NewSprite11",
+                      "image": "NewSprite14",
                       "points": [],
                       "originPoint": {
                         "name": "origine",
@@ -30776,7 +31693,7 @@
                   "sprites": [
                     {
                       "hasCustomCollisionMask": false,
-                      "image": "NewSprite11",
+                      "image": "NewSprite13",
                       "points": [],
                       "originPoint": {
                         "name": "origine",
@@ -30966,6 +31883,7 @@
             "textAlignment": "left",
             "verticalTextAlignment": "top",
             "characterSize": 40,
+            "lineHeight": 0,
             "color": "154;23;0"
           }
         },
@@ -31231,6 +32149,15 @@
               "actions": [
                 {
                   "type": {
+                    "value": "StopSoundCanal"
+                  },
+                  "parameters": [
+                    "",
+                    "3"
+                  ]
+                },
+                {
+                  "type": {
                     "value": "ChangePlan"
                   },
                   "parameters": [
@@ -31312,6 +32239,19 @@
                     }
                   ],
                   "actions": [
+                    {
+                      "type": {
+                        "value": "PlaySoundCanal"
+                      },
+                      "parameters": [
+                        "",
+                        "footstep nyebrang - safety first.wav",
+                        "2",
+                        "",
+                        "settings.SFX",
+                        "1"
+                      ]
+                    },
                     {
                       "type": {
                         "value": "ChangePlan"
@@ -31434,6 +32374,15 @@
               "actions": [
                 {
                   "type": {
+                    "value": "StopSoundCanal"
+                  },
+                  "parameters": [
+                    "",
+                    "2"
+                  ]
+                },
+                {
+                  "type": {
                     "value": "ChangePlan"
                   },
                   "parameters": [
@@ -31515,6 +32464,19 @@
                     }
                   ],
                   "actions": [
+                    {
+                      "type": {
+                        "value": "PlaySoundCanal"
+                      },
+                      "parameters": [
+                        "",
+                        "footstep nyebrang - safety first.wav",
+                        "3",
+                        "",
+                        "settings.SFX",
+                        "1"
+                      ]
+                    },
                     {
                       "type": {
                         "value": "ChangePlan"
@@ -33913,6 +34875,7 @@
               "extraInformation": [
                 "ScalableCapability::ScalableBehavior"
               ],
+              "choices": [],
               "name": "Scale"
             },
             {
@@ -33922,6 +34885,7 @@
               "extraInformation": [
                 "Tween::TweenBehavior"
               ],
+              "choices": [],
               "name": "TweenBehavior"
             },
             {
@@ -38397,6 +39361,7 @@
               "extraInformation": [
                 "ScalableCapability::ScalableBehavior"
               ],
+              "choices": [],
               "name": "Scale"
             }
           ],
@@ -39540,12 +40505,27 @@
               "value": "Idle",
               "type": "Choice",
               "label": "State",
-              "extraInformation": [
-                "Idle",
-                "Hovered",
-                "PressedInside",
-                "PressedOutside",
-                "Validated"
+              "choices": [
+                {
+                  "label": "Idle",
+                  "value": "Idle"
+                },
+                {
+                  "label": "Hovered",
+                  "value": "Hovered"
+                },
+                {
+                  "label": "PressedInside",
+                  "value": "PressedInside"
+                },
+                {
+                  "label": "PressedOutside",
+                  "value": "PressedOutside"
+                },
+                {
+                  "label": "Validated",
+                  "value": "Validated"
+                }
               ],
               "hidden": true,
               "name": "State"
@@ -40084,6 +41064,7 @@
               "extraInformation": [
                 "ButtonStates::ButtonFSM"
               ],
+              "choices": [],
               "name": "ButtonFSM"
             },
             {
@@ -40093,6 +41074,7 @@
               "extraInformation": [
                 "EffectCapability::EffectBehavior"
               ],
+              "choices": [],
               "name": "Effect"
             },
             {
@@ -40532,6 +41514,7 @@
               "extraInformation": [
                 "AnimatableCapability::AnimatableBehavior"
               ],
+              "choices": [],
               "name": "Animation"
             },
             {
@@ -40541,6 +41524,7 @@
               "extraInformation": [
                 "ButtonStates::ButtonFSM"
               ],
+              "choices": [],
               "name": "ButtonFSM"
             },
             {
@@ -41934,6 +42918,7 @@
               "extraInformation": [
                 "ButtonStates::ButtonFSM"
               ],
+              "choices": [],
               "name": "ButtonFSM"
             },
             {
@@ -41943,6 +42928,7 @@
               "extraInformation": [
                 "EffectCapability::EffectBehavior"
               ],
+              "choices": [],
               "name": "Effect"
             },
             {
@@ -41987,40 +42973,139 @@
               "type": "Choice",
               "label": "Fade-in easing",
               "group": "Speed",
-              "extraInformation": [
-                "linear",
-                "easeInQuad",
-                "easeOutQuad",
-                "easeInOutQuad",
-                "easeInCubic",
-                "easeOutCubic",
-                "easeInOutCubic",
-                "easeInQuart",
-                "easeOutQuart",
-                "easeInOutQuart",
-                "easeInQuint",
-                "easeOutQuint",
-                "easeInOutQuint",
-                "easeInOutSine",
-                "easeInExpo",
-                "easeOutExpo",
-                "easeInOutExpo",
-                "easeInCirc",
-                "easeOutCirc",
-                "easeInOutCirc",
-                "easeOutBounce",
-                "easeInBack",
-                "easeOutBack",
-                "easeInOutBack",
-                "elastic",
-                "swingFromTo",
-                "swingFrom",
-                "swingTo",
-                "bounce",
-                "bouncePast",
-                "easeFromTo",
-                "easeFrom",
-                "easeTo"
+              "choices": [
+                {
+                  "label": "linear",
+                  "value": "linear"
+                },
+                {
+                  "label": "easeInQuad",
+                  "value": "easeInQuad"
+                },
+                {
+                  "label": "easeOutQuad",
+                  "value": "easeOutQuad"
+                },
+                {
+                  "label": "easeInOutQuad",
+                  "value": "easeInOutQuad"
+                },
+                {
+                  "label": "easeInCubic",
+                  "value": "easeInCubic"
+                },
+                {
+                  "label": "easeOutCubic",
+                  "value": "easeOutCubic"
+                },
+                {
+                  "label": "easeInOutCubic",
+                  "value": "easeInOutCubic"
+                },
+                {
+                  "label": "easeInQuart",
+                  "value": "easeInQuart"
+                },
+                {
+                  "label": "easeOutQuart",
+                  "value": "easeOutQuart"
+                },
+                {
+                  "label": "easeInOutQuart",
+                  "value": "easeInOutQuart"
+                },
+                {
+                  "label": "easeInQuint",
+                  "value": "easeInQuint"
+                },
+                {
+                  "label": "easeOutQuint",
+                  "value": "easeOutQuint"
+                },
+                {
+                  "label": "easeInOutQuint",
+                  "value": "easeInOutQuint"
+                },
+                {
+                  "label": "easeInOutSine",
+                  "value": "easeInOutSine"
+                },
+                {
+                  "label": "easeInExpo",
+                  "value": "easeInExpo"
+                },
+                {
+                  "label": "easeOutExpo",
+                  "value": "easeOutExpo"
+                },
+                {
+                  "label": "easeInOutExpo",
+                  "value": "easeInOutExpo"
+                },
+                {
+                  "label": "easeInCirc",
+                  "value": "easeInCirc"
+                },
+                {
+                  "label": "easeOutCirc",
+                  "value": "easeOutCirc"
+                },
+                {
+                  "label": "easeInOutCirc",
+                  "value": "easeInOutCirc"
+                },
+                {
+                  "label": "easeOutBounce",
+                  "value": "easeOutBounce"
+                },
+                {
+                  "label": "easeInBack",
+                  "value": "easeInBack"
+                },
+                {
+                  "label": "easeOutBack",
+                  "value": "easeOutBack"
+                },
+                {
+                  "label": "easeInOutBack",
+                  "value": "easeInOutBack"
+                },
+                {
+                  "label": "elastic",
+                  "value": "elastic"
+                },
+                {
+                  "label": "swingFromTo",
+                  "value": "swingFromTo"
+                },
+                {
+                  "label": "swingFrom",
+                  "value": "swingFrom"
+                },
+                {
+                  "label": "swingTo",
+                  "value": "swingTo"
+                },
+                {
+                  "label": "bounce",
+                  "value": "bounce"
+                },
+                {
+                  "label": "bouncePast",
+                  "value": "bouncePast"
+                },
+                {
+                  "label": "easeFromTo",
+                  "value": "easeFromTo"
+                },
+                {
+                  "label": "easeFrom",
+                  "value": "easeFrom"
+                },
+                {
+                  "label": "easeTo",
+                  "value": "easeTo"
+                }
               ],
               "name": "FadeInEasing"
             },
@@ -42029,40 +43114,139 @@
               "type": "Choice",
               "label": "Fade-out easing",
               "group": "Speed",
-              "extraInformation": [
-                "linear",
-                "easeInQuad",
-                "easeOutQuad",
-                "easeInOutQuad",
-                "easeInCubic",
-                "easeOutCubic",
-                "easeInOutCubic",
-                "easeInQuart",
-                "easeOutQuart",
-                "easeInOutQuart",
-                "easeInQuint",
-                "easeOutQuint",
-                "easeInOutQuint",
-                "easeInOutSine",
-                "easeInExpo",
-                "easeOutExpo",
-                "easeInOutExpo",
-                "easeInCirc",
-                "easeOutCirc",
-                "easeInOutCirc",
-                "easeOutBounce",
-                "easeInBack",
-                "easeOutBack",
-                "easeInOutBack",
-                "elastic",
-                "swingFromTo",
-                "swingFrom",
-                "swingTo",
-                "bounce",
-                "bouncePast",
-                "easeFromTo",
-                "easeFrom",
-                "easeTo"
+              "choices": [
+                {
+                  "label": "linear",
+                  "value": "linear"
+                },
+                {
+                  "label": "easeInQuad",
+                  "value": "easeInQuad"
+                },
+                {
+                  "label": "easeOutQuad",
+                  "value": "easeOutQuad"
+                },
+                {
+                  "label": "easeInOutQuad",
+                  "value": "easeInOutQuad"
+                },
+                {
+                  "label": "easeInCubic",
+                  "value": "easeInCubic"
+                },
+                {
+                  "label": "easeOutCubic",
+                  "value": "easeOutCubic"
+                },
+                {
+                  "label": "easeInOutCubic",
+                  "value": "easeInOutCubic"
+                },
+                {
+                  "label": "easeInQuart",
+                  "value": "easeInQuart"
+                },
+                {
+                  "label": "easeOutQuart",
+                  "value": "easeOutQuart"
+                },
+                {
+                  "label": "easeInOutQuart",
+                  "value": "easeInOutQuart"
+                },
+                {
+                  "label": "easeInQuint",
+                  "value": "easeInQuint"
+                },
+                {
+                  "label": "easeOutQuint",
+                  "value": "easeOutQuint"
+                },
+                {
+                  "label": "easeInOutQuint",
+                  "value": "easeInOutQuint"
+                },
+                {
+                  "label": "easeInOutSine",
+                  "value": "easeInOutSine"
+                },
+                {
+                  "label": "easeInExpo",
+                  "value": "easeInExpo"
+                },
+                {
+                  "label": "easeOutExpo",
+                  "value": "easeOutExpo"
+                },
+                {
+                  "label": "easeInOutExpo",
+                  "value": "easeInOutExpo"
+                },
+                {
+                  "label": "easeInCirc",
+                  "value": "easeInCirc"
+                },
+                {
+                  "label": "easeOutCirc",
+                  "value": "easeOutCirc"
+                },
+                {
+                  "label": "easeInOutCirc",
+                  "value": "easeInOutCirc"
+                },
+                {
+                  "label": "easeOutBounce",
+                  "value": "easeOutBounce"
+                },
+                {
+                  "label": "easeInBack",
+                  "value": "easeInBack"
+                },
+                {
+                  "label": "easeOutBack",
+                  "value": "easeOutBack"
+                },
+                {
+                  "label": "easeInOutBack",
+                  "value": "easeInOutBack"
+                },
+                {
+                  "label": "elastic",
+                  "value": "elastic"
+                },
+                {
+                  "label": "swingFromTo",
+                  "value": "swingFromTo"
+                },
+                {
+                  "label": "swingFrom",
+                  "value": "swingFrom"
+                },
+                {
+                  "label": "swingTo",
+                  "value": "swingTo"
+                },
+                {
+                  "label": "bounce",
+                  "value": "bounce"
+                },
+                {
+                  "label": "bouncePast",
+                  "value": "bouncePast"
+                },
+                {
+                  "label": "easeFromTo",
+                  "value": "easeFromTo"
+                },
+                {
+                  "label": "easeFrom",
+                  "value": "easeFrom"
+                },
+                {
+                  "label": "easeTo",
+                  "value": "easeTo"
+                }
               ],
               "name": "FadeOutEasing"
             },
@@ -42086,10 +43270,19 @@
               "value": "Idle",
               "type": "Choice",
               "label": "",
-              "extraInformation": [
-                "Idle",
-                "Focused",
-                "Pressed"
+              "choices": [
+                {
+                  "label": "Idle",
+                  "value": "Idle"
+                },
+                {
+                  "label": "Focused",
+                  "value": "Focused"
+                },
+                {
+                  "label": "Pressed",
+                  "value": "Pressed"
+                }
               ],
               "hidden": true,
               "name": "PreviousState"
@@ -42119,10 +43312,19 @@
               "value": "NoTween",
               "type": "Choice",
               "label": "",
-              "extraInformation": [
-                "NoTween",
-                "FadeIn",
-                "FadeOut"
+              "choices": [
+                {
+                  "label": "NoTween",
+                  "value": "NoTween"
+                },
+                {
+                  "label": "FadeIn",
+                  "value": "FadeIn"
+                },
+                {
+                  "label": "FadeOut",
+                  "value": "FadeOut"
+                }
               ],
               "hidden": true,
               "name": "TweenState"
@@ -43077,6 +44279,7 @@
               "extraInformation": [
                 "ScalableCapability::ScalableBehavior"
               ],
+              "choices": [],
               "name": "Scale"
             },
             {
@@ -43086,6 +44289,7 @@
               "extraInformation": [
                 "ButtonStates::ButtonFSM"
               ],
+              "choices": [],
               "name": "ButtonFSM"
             },
             {
@@ -43095,6 +44299,7 @@
               "extraInformation": [
                 "Tween::TweenBehavior"
               ],
+              "choices": [],
               "name": "Tween"
             },
             {
@@ -43143,40 +44348,139 @@
               "type": "Choice",
               "label": "Fade-in easing",
               "group": "Speed",
-              "extraInformation": [
-                "linear",
-                "easeInQuad",
-                "easeOutQuad",
-                "easeInOutQuad",
-                "easeInCubic",
-                "easeOutCubic",
-                "easeInOutCubic",
-                "easeInQuart",
-                "easeOutQuart",
-                "easeInOutQuart",
-                "easeInQuint",
-                "easeOutQuint",
-                "easeInOutQuint",
-                "easeInOutSine",
-                "easeInExpo",
-                "easeOutExpo",
-                "easeInOutExpo",
-                "easeInCirc",
-                "easeOutCirc",
-                "easeInOutCirc",
-                "easeOutBounce",
-                "easeInBack",
-                "easeOutBack",
-                "easeInOutBack",
-                "elastic",
-                "swingFromTo",
-                "swingFrom",
-                "swingTo",
-                "bounce",
-                "bouncePast",
-                "easeFromTo",
-                "easeFrom",
-                "easeTo"
+              "choices": [
+                {
+                  "label": "linear",
+                  "value": "linear"
+                },
+                {
+                  "label": "easeInQuad",
+                  "value": "easeInQuad"
+                },
+                {
+                  "label": "easeOutQuad",
+                  "value": "easeOutQuad"
+                },
+                {
+                  "label": "easeInOutQuad",
+                  "value": "easeInOutQuad"
+                },
+                {
+                  "label": "easeInCubic",
+                  "value": "easeInCubic"
+                },
+                {
+                  "label": "easeOutCubic",
+                  "value": "easeOutCubic"
+                },
+                {
+                  "label": "easeInOutCubic",
+                  "value": "easeInOutCubic"
+                },
+                {
+                  "label": "easeInQuart",
+                  "value": "easeInQuart"
+                },
+                {
+                  "label": "easeOutQuart",
+                  "value": "easeOutQuart"
+                },
+                {
+                  "label": "easeInOutQuart",
+                  "value": "easeInOutQuart"
+                },
+                {
+                  "label": "easeInQuint",
+                  "value": "easeInQuint"
+                },
+                {
+                  "label": "easeOutQuint",
+                  "value": "easeOutQuint"
+                },
+                {
+                  "label": "easeInOutQuint",
+                  "value": "easeInOutQuint"
+                },
+                {
+                  "label": "easeInOutSine",
+                  "value": "easeInOutSine"
+                },
+                {
+                  "label": "easeInExpo",
+                  "value": "easeInExpo"
+                },
+                {
+                  "label": "easeOutExpo",
+                  "value": "easeOutExpo"
+                },
+                {
+                  "label": "easeInOutExpo",
+                  "value": "easeInOutExpo"
+                },
+                {
+                  "label": "easeInCirc",
+                  "value": "easeInCirc"
+                },
+                {
+                  "label": "easeOutCirc",
+                  "value": "easeOutCirc"
+                },
+                {
+                  "label": "easeInOutCirc",
+                  "value": "easeInOutCirc"
+                },
+                {
+                  "label": "easeOutBounce",
+                  "value": "easeOutBounce"
+                },
+                {
+                  "label": "easeInBack",
+                  "value": "easeInBack"
+                },
+                {
+                  "label": "easeOutBack",
+                  "value": "easeOutBack"
+                },
+                {
+                  "label": "easeInOutBack",
+                  "value": "easeInOutBack"
+                },
+                {
+                  "label": "elastic",
+                  "value": "elastic"
+                },
+                {
+                  "label": "swingFromTo",
+                  "value": "swingFromTo"
+                },
+                {
+                  "label": "swingFrom",
+                  "value": "swingFrom"
+                },
+                {
+                  "label": "swingTo",
+                  "value": "swingTo"
+                },
+                {
+                  "label": "bounce",
+                  "value": "bounce"
+                },
+                {
+                  "label": "bouncePast",
+                  "value": "bouncePast"
+                },
+                {
+                  "label": "easeFromTo",
+                  "value": "easeFromTo"
+                },
+                {
+                  "label": "easeFrom",
+                  "value": "easeFrom"
+                },
+                {
+                  "label": "easeTo",
+                  "value": "easeTo"
+                }
               ],
               "name": "FadeInEasing"
             },
@@ -43185,40 +44489,139 @@
               "type": "Choice",
               "label": "Fade-out easing",
               "group": "Speed",
-              "extraInformation": [
-                "linear",
-                "easeInQuad",
-                "easeOutQuad",
-                "easeInOutQuad",
-                "easeInCubic",
-                "easeOutCubic",
-                "easeInOutCubic",
-                "easeInQuart",
-                "easeOutQuart",
-                "easeInOutQuart",
-                "easeInQuint",
-                "easeOutQuint",
-                "easeInOutQuint",
-                "easeInOutSine",
-                "easeInExpo",
-                "easeOutExpo",
-                "easeInOutExpo",
-                "easeInCirc",
-                "easeOutCirc",
-                "easeInOutCirc",
-                "easeOutBounce",
-                "easeInBack",
-                "easeOutBack",
-                "easeInOutBack",
-                "elastic",
-                "swingFromTo",
-                "swingFrom",
-                "swingTo",
-                "bounce",
-                "bouncePast",
-                "easeFromTo",
-                "easeFrom",
-                "easeTo"
+              "choices": [
+                {
+                  "label": "linear",
+                  "value": "linear"
+                },
+                {
+                  "label": "easeInQuad",
+                  "value": "easeInQuad"
+                },
+                {
+                  "label": "easeOutQuad",
+                  "value": "easeOutQuad"
+                },
+                {
+                  "label": "easeInOutQuad",
+                  "value": "easeInOutQuad"
+                },
+                {
+                  "label": "easeInCubic",
+                  "value": "easeInCubic"
+                },
+                {
+                  "label": "easeOutCubic",
+                  "value": "easeOutCubic"
+                },
+                {
+                  "label": "easeInOutCubic",
+                  "value": "easeInOutCubic"
+                },
+                {
+                  "label": "easeInQuart",
+                  "value": "easeInQuart"
+                },
+                {
+                  "label": "easeOutQuart",
+                  "value": "easeOutQuart"
+                },
+                {
+                  "label": "easeInOutQuart",
+                  "value": "easeInOutQuart"
+                },
+                {
+                  "label": "easeInQuint",
+                  "value": "easeInQuint"
+                },
+                {
+                  "label": "easeOutQuint",
+                  "value": "easeOutQuint"
+                },
+                {
+                  "label": "easeInOutQuint",
+                  "value": "easeInOutQuint"
+                },
+                {
+                  "label": "easeInOutSine",
+                  "value": "easeInOutSine"
+                },
+                {
+                  "label": "easeInExpo",
+                  "value": "easeInExpo"
+                },
+                {
+                  "label": "easeOutExpo",
+                  "value": "easeOutExpo"
+                },
+                {
+                  "label": "easeInOutExpo",
+                  "value": "easeInOutExpo"
+                },
+                {
+                  "label": "easeInCirc",
+                  "value": "easeInCirc"
+                },
+                {
+                  "label": "easeOutCirc",
+                  "value": "easeOutCirc"
+                },
+                {
+                  "label": "easeInOutCirc",
+                  "value": "easeInOutCirc"
+                },
+                {
+                  "label": "easeOutBounce",
+                  "value": "easeOutBounce"
+                },
+                {
+                  "label": "easeInBack",
+                  "value": "easeInBack"
+                },
+                {
+                  "label": "easeOutBack",
+                  "value": "easeOutBack"
+                },
+                {
+                  "label": "easeInOutBack",
+                  "value": "easeInOutBack"
+                },
+                {
+                  "label": "elastic",
+                  "value": "elastic"
+                },
+                {
+                  "label": "swingFromTo",
+                  "value": "swingFromTo"
+                },
+                {
+                  "label": "swingFrom",
+                  "value": "swingFrom"
+                },
+                {
+                  "label": "swingTo",
+                  "value": "swingTo"
+                },
+                {
+                  "label": "bounce",
+                  "value": "bounce"
+                },
+                {
+                  "label": "bouncePast",
+                  "value": "bouncePast"
+                },
+                {
+                  "label": "easeFromTo",
+                  "value": "easeFromTo"
+                },
+                {
+                  "label": "easeFrom",
+                  "value": "easeFrom"
+                },
+                {
+                  "label": "easeTo",
+                  "value": "easeTo"
+                }
               ],
               "name": "FadeOutEasing"
             },
@@ -43226,10 +44629,19 @@
               "value": "Idle",
               "type": "Choice",
               "label": "",
-              "extraInformation": [
-                "Idle",
-                "Focused",
-                "Pressed"
+              "choices": [
+                {
+                  "label": "Idle",
+                  "value": "Idle"
+                },
+                {
+                  "label": "Focused",
+                  "value": "Focused"
+                },
+                {
+                  "label": "Pressed",
+                  "value": "Pressed"
+                }
               ],
               "hidden": true,
               "name": "PreviousState"
@@ -44191,6 +45603,7 @@
               "extraInformation": [
                 "ButtonStates::ButtonFSM"
               ],
+              "choices": [],
               "name": "ButtonFSM"
             },
             {
@@ -44200,6 +45613,7 @@
               "extraInformation": [
                 "Tween::TweenBehavior"
               ],
+              "choices": [],
               "name": "Tween"
             },
             {
@@ -44245,40 +45659,139 @@
               "type": "Choice",
               "label": "Fade-in easing",
               "group": "Speed",
-              "extraInformation": [
-                "linear",
-                "easeInQuad",
-                "easeOutQuad",
-                "easeInOutQuad",
-                "easeInCubic",
-                "easeOutCubic",
-                "easeInOutCubic",
-                "easeInQuart",
-                "easeOutQuart",
-                "easeInOutQuart",
-                "easeInQuint",
-                "easeOutQuint",
-                "easeInOutQuint",
-                "easeInOutSine",
-                "easeInExpo",
-                "easeOutExpo",
-                "easeInOutExpo",
-                "easeInCirc",
-                "easeOutCirc",
-                "easeInOutCirc",
-                "easeOutBounce",
-                "easeInBack",
-                "easeOutBack",
-                "easeInOutBack",
-                "elastic",
-                "swingFromTo",
-                "swingFrom",
-                "swingTo",
-                "bounce",
-                "bouncePast",
-                "easeFromTo",
-                "easeFrom",
-                "easeTo"
+              "choices": [
+                {
+                  "label": "linear",
+                  "value": "linear"
+                },
+                {
+                  "label": "easeInQuad",
+                  "value": "easeInQuad"
+                },
+                {
+                  "label": "easeOutQuad",
+                  "value": "easeOutQuad"
+                },
+                {
+                  "label": "easeInOutQuad",
+                  "value": "easeInOutQuad"
+                },
+                {
+                  "label": "easeInCubic",
+                  "value": "easeInCubic"
+                },
+                {
+                  "label": "easeOutCubic",
+                  "value": "easeOutCubic"
+                },
+                {
+                  "label": "easeInOutCubic",
+                  "value": "easeInOutCubic"
+                },
+                {
+                  "label": "easeInQuart",
+                  "value": "easeInQuart"
+                },
+                {
+                  "label": "easeOutQuart",
+                  "value": "easeOutQuart"
+                },
+                {
+                  "label": "easeInOutQuart",
+                  "value": "easeInOutQuart"
+                },
+                {
+                  "label": "easeInQuint",
+                  "value": "easeInQuint"
+                },
+                {
+                  "label": "easeOutQuint",
+                  "value": "easeOutQuint"
+                },
+                {
+                  "label": "easeInOutQuint",
+                  "value": "easeInOutQuint"
+                },
+                {
+                  "label": "easeInOutSine",
+                  "value": "easeInOutSine"
+                },
+                {
+                  "label": "easeInExpo",
+                  "value": "easeInExpo"
+                },
+                {
+                  "label": "easeOutExpo",
+                  "value": "easeOutExpo"
+                },
+                {
+                  "label": "easeInOutExpo",
+                  "value": "easeInOutExpo"
+                },
+                {
+                  "label": "easeInCirc",
+                  "value": "easeInCirc"
+                },
+                {
+                  "label": "easeOutCirc",
+                  "value": "easeOutCirc"
+                },
+                {
+                  "label": "easeInOutCirc",
+                  "value": "easeInOutCirc"
+                },
+                {
+                  "label": "easeOutBounce",
+                  "value": "easeOutBounce"
+                },
+                {
+                  "label": "easeInBack",
+                  "value": "easeInBack"
+                },
+                {
+                  "label": "easeOutBack",
+                  "value": "easeOutBack"
+                },
+                {
+                  "label": "easeInOutBack",
+                  "value": "easeInOutBack"
+                },
+                {
+                  "label": "elastic",
+                  "value": "elastic"
+                },
+                {
+                  "label": "swingFromTo",
+                  "value": "swingFromTo"
+                },
+                {
+                  "label": "swingFrom",
+                  "value": "swingFrom"
+                },
+                {
+                  "label": "swingTo",
+                  "value": "swingTo"
+                },
+                {
+                  "label": "bounce",
+                  "value": "bounce"
+                },
+                {
+                  "label": "bouncePast",
+                  "value": "bouncePast"
+                },
+                {
+                  "label": "easeFromTo",
+                  "value": "easeFromTo"
+                },
+                {
+                  "label": "easeFrom",
+                  "value": "easeFrom"
+                },
+                {
+                  "label": "easeTo",
+                  "value": "easeTo"
+                }
               ],
               "name": "FadeInEasing"
             },
@@ -44287,40 +45800,139 @@
               "type": "Choice",
               "label": "Fade-out easing",
               "group": "Speed",
-              "extraInformation": [
-                "linear",
-                "easeInQuad",
-                "easeOutQuad",
-                "easeInOutQuad",
-                "easeInCubic",
-                "easeOutCubic",
-                "easeInOutCubic",
-                "easeInQuart",
-                "easeOutQuart",
-                "easeInOutQuart",
-                "easeInQuint",
-                "easeOutQuint",
-                "easeInOutQuint",
-                "easeInOutSine",
-                "easeInExpo",
-                "easeOutExpo",
-                "easeInOutExpo",
-                "easeInCirc",
-                "easeOutCirc",
-                "easeInOutCirc",
-                "easeOutBounce",
-                "easeInBack",
-                "easeOutBack",
-                "easeInOutBack",
-                "elastic",
-                "swingFromTo",
-                "swingFrom",
-                "swingTo",
-                "bounce",
-                "bouncePast",
-                "easeFromTo",
-                "easeFrom",
-                "easeTo"
+              "choices": [
+                {
+                  "label": "linear",
+                  "value": "linear"
+                },
+                {
+                  "label": "easeInQuad",
+                  "value": "easeInQuad"
+                },
+                {
+                  "label": "easeOutQuad",
+                  "value": "easeOutQuad"
+                },
+                {
+                  "label": "easeInOutQuad",
+                  "value": "easeInOutQuad"
+                },
+                {
+                  "label": "easeInCubic",
+                  "value": "easeInCubic"
+                },
+                {
+                  "label": "easeOutCubic",
+                  "value": "easeOutCubic"
+                },
+                {
+                  "label": "easeInOutCubic",
+                  "value": "easeInOutCubic"
+                },
+                {
+                  "label": "easeInQuart",
+                  "value": "easeInQuart"
+                },
+                {
+                  "label": "easeOutQuart",
+                  "value": "easeOutQuart"
+                },
+                {
+                  "label": "easeInOutQuart",
+                  "value": "easeInOutQuart"
+                },
+                {
+                  "label": "easeInQuint",
+                  "value": "easeInQuint"
+                },
+                {
+                  "label": "easeOutQuint",
+                  "value": "easeOutQuint"
+                },
+                {
+                  "label": "easeInOutQuint",
+                  "value": "easeInOutQuint"
+                },
+                {
+                  "label": "easeInOutSine",
+                  "value": "easeInOutSine"
+                },
+                {
+                  "label": "easeInExpo",
+                  "value": "easeInExpo"
+                },
+                {
+                  "label": "easeOutExpo",
+                  "value": "easeOutExpo"
+                },
+                {
+                  "label": "easeInOutExpo",
+                  "value": "easeInOutExpo"
+                },
+                {
+                  "label": "easeInCirc",
+                  "value": "easeInCirc"
+                },
+                {
+                  "label": "easeOutCirc",
+                  "value": "easeOutCirc"
+                },
+                {
+                  "label": "easeInOutCirc",
+                  "value": "easeInOutCirc"
+                },
+                {
+                  "label": "easeOutBounce",
+                  "value": "easeOutBounce"
+                },
+                {
+                  "label": "easeInBack",
+                  "value": "easeInBack"
+                },
+                {
+                  "label": "easeOutBack",
+                  "value": "easeOutBack"
+                },
+                {
+                  "label": "easeInOutBack",
+                  "value": "easeInOutBack"
+                },
+                {
+                  "label": "elastic",
+                  "value": "elastic"
+                },
+                {
+                  "label": "swingFromTo",
+                  "value": "swingFromTo"
+                },
+                {
+                  "label": "swingFrom",
+                  "value": "swingFrom"
+                },
+                {
+                  "label": "swingTo",
+                  "value": "swingTo"
+                },
+                {
+                  "label": "bounce",
+                  "value": "bounce"
+                },
+                {
+                  "label": "bouncePast",
+                  "value": "bouncePast"
+                },
+                {
+                  "label": "easeFromTo",
+                  "value": "easeFromTo"
+                },
+                {
+                  "label": "easeFrom",
+                  "value": "easeFrom"
+                },
+                {
+                  "label": "easeTo",
+                  "value": "easeTo"
+                }
               ],
               "name": "FadeOutEasing"
             },
@@ -44328,10 +45940,19 @@
               "value": "Idle",
               "type": "Choice",
               "label": "",
-              "extraInformation": [
-                "Idle",
-                "Focused",
-                "Pressed"
+              "choices": [
+                {
+                  "label": "Idle",
+                  "value": "Idle"
+                },
+                {
+                  "label": "Focused",
+                  "value": "Focused"
+                },
+                {
+                  "label": "Pressed",
+                  "value": "Pressed"
+                }
               ],
               "hidden": true,
               "name": "PreviousState"
@@ -46433,6 +48054,7 @@
               "extraInformation": [
                 "OpacityCapability::OpacityBehavior"
               ],
+              "choices": [],
               "name": "Opacity"
             },
             {
@@ -46442,6 +48064,7 @@
               "extraInformation": [
                 "Tween::TweenBehavior"
               ],
+              "choices": [],
               "name": "TweenBehavior"
             },
             {
@@ -47300,6 +48923,7 @@
               "extraInformation": [
                 "EffectCapability::EffectBehavior"
               ],
+              "choices": [],
               "name": "Effect"
             },
             {
@@ -48315,6 +49939,7 @@
               "extraInformation": [
                 "TextContainerCapability::TextContainerBehavior"
               ],
+              "choices": [],
               "name": "Text"
             },
             {
@@ -49347,16 +50972,26 @@
               "extraInformation": [
                 "Physics2::Physics2Behavior"
               ],
+              "choices": [],
               "name": "PhysicsBehavior"
             },
             {
               "value": "Left",
               "type": "Choice",
               "label": "Mouse button",
-              "extraInformation": [
-                "Left",
-                "Right",
-                "Middle"
+              "choices": [
+                {
+                  "label": "Left",
+                  "value": "Left"
+                },
+                {
+                  "label": "Right",
+                  "value": "Right"
+                },
+                {
+                  "label": "Middle",
+                  "value": "Middle"
+                }
               ],
               "name": "MouseButton"
             },
@@ -54220,6 +55855,7 @@
               "extraInformation": [
                 "FlippableCapability::FlippableBehavior"
               ],
+              "choices": [],
               "name": "Flippable"
             },
             {
@@ -54405,9 +56041,15 @@
               "value": "Top-Down",
               "type": "Choice",
               "label": "Viewpoint",
-              "extraInformation": [
-                "Top-Down",
-                "Isometry 2:1 (26.565°)"
+              "choices": [
+                {
+                  "label": "Top-Down",
+                  "value": "Top-Down"
+                },
+                {
+                  "label": "Isometry 2:1 (26.565°)",
+                  "value": "Isometry 2:1 (26.565°)"
+                }
               ],
               "name": "Viewpoint"
             }
@@ -57156,9 +58798,15 @@
               "value": "Top-Down",
               "type": "Choice",
               "label": "Viewpoint",
-              "extraInformation": [
-                "Top-Down",
-                "Isometry 2:1 (26.565°)"
+              "choices": [
+                {
+                  "label": "Top-Down",
+                  "value": "Top-Down"
+                },
+                {
+                  "label": "Isometry 2:1 (26.565°)",
+                  "value": "Isometry 2:1 (26.565°)"
+                }
               ],
               "name": "Viewpoint"
             }
@@ -57515,6 +59163,7 @@
               "extraInformation": [
                 "Physics2::Physics2Behavior"
               ],
+              "choices": [],
               "name": "PhysicsBehavior"
             },
             {
@@ -57591,6 +59240,7 @@
               "extraInformation": [
                 "Physics2::Physics2Behavior"
               ],
+              "choices": [],
               "name": "PhysicsBehavior"
             },
             {
@@ -59211,12 +60861,27 @@
               "value": "Idle",
               "type": "Choice",
               "label": "State",
-              "extraInformation": [
-                "Idle",
-                "Hovered",
-                "PressedInside",
-                "PressedOutside",
-                "Validated"
+              "choices": [
+                {
+                  "label": "Idle",
+                  "value": "Idle"
+                },
+                {
+                  "label": "Hovered",
+                  "value": "Hovered"
+                },
+                {
+                  "label": "PressedInside",
+                  "value": "PressedInside"
+                },
+                {
+                  "label": "PressedOutside",
+                  "value": "PressedOutside"
+                },
+                {
+                  "label": "Validated",
+                  "value": "Validated"
+                }
               ],
               "hidden": true,
               "name": "State"
@@ -59307,6 +60972,7 @@
                 "textAlignment": "",
                 "verticalTextAlignment": "top",
                 "characterSize": 20,
+                "lineHeight": 0,
                 "color": "255;162;190"
               }
             },
@@ -61164,6 +62830,7 @@
                 "Label",
                 "FillBar"
               ],
+              "choices": [],
               "hidden": true,
               "name": "BarLeftPadding"
             },
@@ -61176,6 +62843,7 @@
                 "Label",
                 "FillBar"
               ],
+              "choices": [],
               "hidden": true,
               "name": "BarTopPadding"
             },
@@ -61188,6 +62856,7 @@
                 "Label",
                 "FillBar"
               ],
+              "choices": [],
               "hidden": true,
               "name": "BarRightPadding"
             },
@@ -61200,6 +62869,7 @@
                 "Label",
                 "FillBar"
               ],
+              "choices": [],
               "hidden": true,
               "name": "BarBottomPadding"
             },
@@ -61266,6 +62936,7 @@
               "extraInformation": [
                 "Thumb"
               ],
+              "choices": [],
               "hidden": true,
               "name": "ThumbAnchorOrigin"
             },
@@ -61277,6 +62948,7 @@
               "extraInformation": [
                 "FillBar"
               ],
+              "choices": [],
               "hidden": true,
               "name": "ThumbAnchorTarget"
             },
@@ -61288,6 +62960,7 @@
               "extraInformation": [
                 "Label"
               ],
+              "choices": [],
               "hidden": true,
               "name": "ShowLabel"
             },
