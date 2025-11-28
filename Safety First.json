@@ -1,7 +1,7 @@
 {
   "firstLayout": "Home",
   "gdVersion": {
-    "build": 246,
+    "build": 247,
     "major": 5,
     "minor": 5,
     "revision": 0
@@ -24,7 +24,7 @@
     "author": "",
     "windowWidth": 1280,
     "windowHeight": 720,
-    "latestCompilationDirectory": "",
+    "latestCompilationDirectory": "D:\\Laragon\\GDevelop\\safety-first\\exports\\desktop",
     "maxFPS": 60,
     "minFPS": 20,
     "verticalSync": false,
@@ -81,6 +81,7 @@
     "authorUsernames": [],
     "categories": [],
     "playableDevices": [
+      "mobile",
       "mobile"
     ],
     "extensionProperties": [],
@@ -23711,6 +23712,19 @@
           "actions": [
             {
               "type": {
+                "value": "PlaySoundCanal"
+              },
+              "parameters": [
+                "",
+                "sfx tap tap panci - safety first.wav",
+                "3",
+                "no",
+                "settings.SFX",
+                "1"
+              ]
+            },
+            {
+              "type": {
                 "value": "ActivateBehavior"
               },
               "parameters": [
@@ -23867,19 +23881,6 @@
           "actions": [
             {
               "type": {
-                "value": "PlaySoundCanal"
-              },
-              "parameters": [
-                "",
-                "sfx tap tap panci - safety first.wav",
-                "3",
-                "no",
-                "settings.SFX",
-                "1"
-              ]
-            },
-            {
-              "type": {
                 "value": "Wait"
               },
               "parameters": [
@@ -23918,20 +23919,20 @@
             },
             {
               "type": {
-                "value": "Scene"
+                "value": "Delete"
               },
               "parameters": [
-                "",
-                "\"Dapur\"",
+                "api",
                 ""
               ]
             },
             {
               "type": {
-                "value": "Delete"
+                "value": "Scene"
               },
               "parameters": [
-                "api",
+                "",
+                "\"Dapur\"",
                 ""
               ]
             }
